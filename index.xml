@@ -1,0 +1,2734 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MaizeInfo</title>
+    <link>https://maizeinfo.netlify.app/</link>
+    <description>Recent content on MaizeInfo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://maizeinfo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/maize-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/maize-lab/</guid>
+      <description> Yan&amp;rsquo;s lab for maize genetics and molecular WangLab_CAU maizeGDB Wang Lab of Crop Molecular Design 植物-生物互作与免疫中心朱旺升课题组 The Jinliang Yang Lab Christopher Burge Laboratory WAKSMAN INSTITUTE OF MICROBIOLOGY BUCKLER LAB Gallavotti Lab </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/mzor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/mzor/</guid>
+      <description>&lt;h2 id=&#34;maize-resource&#34;&gt;MAIZE RESOURCE&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.maizego.org/Resources.html&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Maizego：Yan&amp;rsquo;s lab for maize genetics and molecular breeding.&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.maizegenetics.net/post/the-first-maize-phg-database-now-available&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;First Maize PHG Database&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://crispr.hzau.edu.cn/CRISPR-Local/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;CRISPR-Local: A local single-guide RNA (sgRNA) design tool for non-reference plant genomes&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://maizemine.rnet.missouri.edu/maizemine/begin.do&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Maizemine: An integrated data warehouse for MaizeGDB&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://sysbio.unl.edu/RGPDB/maize.php&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;RGPDB: Database of Root Genes and Promoters in maize.&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.zeamap.com/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;ZEAMAP：A comprehensive database adapted to the maize multi-omics era.&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://maizegdb.org/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;MaizeGDB: The community database for maize genetics and genomics&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.maizedata.cn/?erowr&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;玉米系谱数据库:玉米品种的全部亲本以及全部子代信息&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://venyao.xyz/MaizeSNPDB/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;MaizeSNPDB：SNP database of 1210 maize lines.&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.maizegdb.org/mgc/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;MaizeGDB qTeller: QTeller is a comparative RNA-seq expression platform to compare expression across multiple data sources in a user-provided gene list or genomic interval, or to visually compare expression between two genes.&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/news1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/news1/</guid>
+      <description>科研人物 中国农业大学赖锦盛荣获国际玉米研究学术奖项 学术观点 | 枣彬吉：葛浩文夫妇英译《玉米》中的形貌修辞研究 人物 | David Stuart Letham：你好哇！“玉米味儿”的细胞分裂素 博士毕业于南京农业大学，主攻研究玉米抗病遗传育种，她“情”定河南农大！ 人物 | 斯坦福大学玉米遗传学家Virginia Walbot 【迎两会·委员风采】全国政协委员严建兵：站在世界玉米研究前沿的“种田农民” 热烈祝贺《玉米科学》执行主编李万良获第六届吉林省新闻出版奖-优秀人物奖！ 【论文背后的故事】四川农业大学玉米栽培团队 四川农业大学青年教师以共同一作在国际著名期刊上发表研究论文，在玉米种子萌发调控研究中取得新进展 在玉米遗传学领域作出突出贡献！中国农业大学教授荣获国际学术奖 中国农业大学赖锦盛荣获国际玉米研究学术奖项 三个月两篇顶刊，深耕玉米研究领域，华中农大严建兵教授获国际学术奖 </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/news2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/news2/</guid>
+      <description>科研动态 学术动态:我院孟庆锋教授课题组揭示我国玉米实现大面积高产的栽培学机制，助力国家玉米单产提升工程 科研进展 | 玉米所在国际土壤学顶级学术期刊报道了不同形式的磷结合根系分泌物对磷有效性的影响 学术时间｜河南农业大学玉米栽培团队在丛枝菌根真菌调控农田N2O排放方面取得重大进展 【前沿资讯】山东农业大学宋生命科学学院张宪省赵翔宇团队在玉米瘤黑粉病方面取得研究进展 重磅！中国农科院最新Science | 玉米研究再登顶刊 玉米起源进化的“世纪之争”——技术进步和学科交叉如何解决重大科学问题 高校动态 | Science重磅！重新定义玉米起源！刚刚我国农学领域又一篇Science!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/news3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/news3/</guid>
+      <description>论文推荐 【文献推荐】Agronomy for Sustainable Development：中非玉米/粮用豆科间作的产量和肥料效益 【文献推荐】Field Crops Research: 根系可塑性和种间互补效应提高缺水条件下玉米/大豆间作生产力和水分利用效率 【文献推荐】JEM：西北地区玉米/绿肥间作10年通过改变微生物群落从而改善土壤特性和农业可持续性 【文献推荐】Field Crops Research：间作调节玉米和花生干物质和氮素的积累和转运 【文献推荐】Plant and Soil: 玉米/大豆间作通过驱动菌根真菌增加了中国东北黑土团聚体稳定性 【文献推荐】Geoderma：土壤酸化改良促进了短期大豆与玉米/大黍间作体系轮作土壤碳氮循环 【文献推荐】Soil Biology and Biochemistry：热带牧草-玉米间作系统土壤氮循环功能基因和N2O排放 【文献推荐】Agricultural Systems：华北平原苜蓿/青贮玉米间作体系不影响产量且减小环境代价 【文献推荐】耕作方式与种植密度结合提高了西北绿洲灌区玉米/豌豆间作的产量并减少了碳排放 【文献推荐】FASE：不同玉米种植密度对玉米/花生间作中光截获和光能利用率的影响 【文献推荐】Scientific Reports：秸秆和覆膜管理提高作物产量，减少小麦/玉米间作体系的二氧化碳排放 【文献推荐】Journal of Cleaner Production：间作提高半干旱地区玉米/大豆体系土地生产力和水分利用效率 【文献推荐】Journal of Integrative Agriculture：玉米/苜蓿间作增加氮素的获取和转移应对种间竞争 【文献推荐】Agronomy for Sustainable Development：缓解青贮玉米/高羊茅间作中的竞争 【文献推荐】European Journal of Agronomy：钙质土中花生/玉米间作系统对铁和氮利用的互作机制 【文献推荐】Field Crops Research：玉米豇豆间作提高了体系生产力，但并非是贫瘠土壤的最优解 【文献推荐】Field Crops Research: 边行比例对玉米/花生间作系统产量和种间相互作用的影响 【文献推荐】Field Crops Research: 玉米种植密度影响玉米/花生间作中组分作物产量、长势和源库关系 【文献推荐】Soil &amp;amp; Tillage Research：边行效应对玉米/大豆带状种植系统根系和土壤资源分布的影响 【文献推荐】SSSAJ: 生物耕作通过覆盖作物改善压实土壤的物理性质和玉米生长 【文献推荐】苍术/玉米间作增加了植物根际促生菌，从而促进了苍术的生长和挥发油的积累 【文献阅读543】中国玉米可持续生产的合理磷管理：meta分析 论文推荐｜玉米南方锈病的研究进展及防治对策研究 论文推荐|秸秆还田与耕作方式对内蒙古平原灌区玉米田土壤质量的影响 论文推荐｜基于优化光谱指数的夏玉米地上生物量估算 论文推荐 | 基于GoogLeNet的玉米籽粒破损及霉变在线辨识方法 论文推荐｜不同施肥处理对春播鲜食糯玉米产量、品质和氮素吸收利用的影响 论文精选 | 不同黄贮处理对玉米秸秆沼气发酵影响研究 【论文精选】基于不同降维算法的玉米叶氮含量高光谱反演 论文推荐 | 调隙式玉米脱粒装置优化设计 论文精选 | 猪粪沼液对玉米产量及土壤理化性状的影响研究 【论文精选】基于多时相高光谱遥感数据估算玉米产量和开花时间 【论文精选】融合高光谱和RGB图像的玉米产量估算 论文推荐 | 丘陵山区小型玉米收获机单行去穗机构设计与试验 论文精选 | 不同配比玉米秸秆调理剂对沼渣堆肥性能的影响 亮点论文 | 强光胁迫对转玉米C4型ZmPEPC+ZmPPDK基因小麦光合和生理特性的影响 【文献阅读541】更多氮肥、更多玉米、更少苜蓿：玉米单位根长的氮素吸收量更高 【文献阅读546】小麦-玉米双熟制NBPT和DCD对土壤硝化和玉米产量的影响 作物学报 | 亮点论文：绿洲灌区绿肥还田利用方式对玉米干物质积累、分配及产量的影响 亮点论文 | 绿洲灌区绿肥还田利用方式对玉米干物质积累、分配及产量的影响 【文献阅读545】NEW PHYTOL | 在长期施肥条件下，玉米的功能需求驱动根际细菌的选择 论文推荐|不同施肥模式对春玉米干物质积累转运、籽粒灌浆和产量的影响 【论文PDF版】全球转基因抗虫玉米专利布局及对我国的发展建议（2023年第5期） 论文分享 | 玉米种植带的改革：合作、农民驱动型研究和创新传播 玉米 | 2023年《作物学报》刊登作物栽培生理论文 论文推荐｜2个转基因品种玉米对亚洲玉米螟致死效果的比较研究 论文推荐|夏玉米品种田间耐盐性综合评价及鉴选 ESI高被引论文 | 气候变化和极端气候对中国长江流域玉米和水稻的影响 期刊文章 | 中国玉米种子质量：十年变迁和未来展望 专辑速递 || 2020—2023年“玉米”论文集锦 【文献阅读542】减少水氮供应下玉米产量和氮吸收对密度增加的响应 作物杂志 | 2023年刊载论文汇总—玉米 论文推荐|深松耕作对夏玉米增密增产的调控机制研究 【主编推荐文章第2期】2019年中国玉米生物学研究进展 《腐植酸》|| 研究论文&amp;ndash;腐植酸控释掺混肥对玉米产量及土壤肥力的影响研究 《节水灌溉》优秀论文推荐|《陇中地区典型玉米农田生态系统呼吸作用对温湿度的响应研究》 专题精选|春耕备耕忙 禾谷类作物（稻、玉米）精选2023年上半年 郑洪建研究员团队论文 || 基于隶属函数法的玉米种质资源苗期耐盐性评价 玉米响应密植的分子调控机制研究综述 JIA | 玉米研究文章精选 </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/news4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/news4/</guid>
+      <description>育种动态 一个优良玉米自交系RP125的高质量基因组组装和表型变异丰富突变体库创制，助力玉米功能基因组研究和作物改良 遵甜糯103荣获“2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛”全国“十佳”糯玉米荣誉称号 优化植株冠层结构可提高玉米籽粒产量和资源利用效率 【获奖成果】玉米新型育种和制种技术及其应用 关于玉米育种几个基本问题的思考(南北学院1)关义新 提高玉米产量从播种开始就得精耕细作|玉米产量一直搞不上去，玉米播种的六大误区一定要规避 北京科技大学在一区top期刊（IF=11.1）发文揭示全球玉米大豆间作和轮作如何贡献粮食安全与环境可持续性 农业农村部拟初审通过27个转基因玉米品种、3个转基因大豆品种 吉林拟审定主要农作物品种257个，涉及玉米、水稻、大豆 山东引种23个玉米、大豆农作物品种 吉林拟引种玉米48个、水稻18个、大豆5个 湖南引种60个水稻、玉米及大豆品种 甘肃拟审定通过主要农作物品种151个，涉及小麦、玉米.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maizeinfo.netlify.app/news5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/news5/</guid>
+      <description>玉米生产 “科创中国”作物多样性种植专业服务团团长调研和指导黑土区玉米/豆科间作种植 “科创中国”作物多样性种植专业服务团开展黑土区玉米大豆带状复合种植调研 “科创中国”作物多样性种植专业服务团助力安居区大豆玉米带状复合种植遍地开花 “科创中国”作物多样性种植专业服务团助力河西走廊农牧企业饲用玉米生产提质增效 如何高质量推广大豆玉米带状复合种植？ 中国转基因玉米和大豆产业化应用试点情况总结与展望 全国农技中心发布2024年西南地区大豆玉米带状复合种植技术意见 Molecular Breeding │ 在干旱和水分充足条件下，ZmEXPA5过表达会缩短玉米开花期到吐丝期间隔和增加谷物产量 Science | 中国农科院作科所联合河南农大：首次解析了调控玉米籽粒铁含量的关键转录因子NAC78 玉米GOLDEN2-LIKE蛋白可以通过促进气孔关闭来增强水稻的抗旱性 隐花色素1b抑制赤霉素信号增强玉米抗倒伏性 高温胁迫下外源水杨酸对灌浆期糯玉米淀粉的影响 THP9提高玉米籽粒蛋白质含量和氮素利用率 ZmELF6-ZmPRR37模块调控玉米开花和盐响应 conz1突变增强玉米对更高纬度的适应性 热胁迫影响玉米花粉管生长 ZmPMP3g在玉米抗旱性中的作用 玉米NF-Y基因家族的全基因组鉴定及ZmNF-YC12正调控玉米的抗旱性分析 缺乏赤霉素的玉米突变体表现出植株高度、茎强度和耐旱性的改变 Field Crop Res.</description>
+    </item>
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>082</title>
+      <link>https://maizeinfo.netlify.app/variety/0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/0/</guid>
+      <description>审定编号 渝农作品审玉2001006号&#xA;作物名称 玉米&#xA;品种名称 082&#xA;审定年份 2001&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>179K</title>
+      <link>https://maizeinfo.netlify.app/variety/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/1/</guid>
+      <description>审定编号 辽审玉20210047&#xA;作物名称 玉米&#xA;品种名称 179K&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>1907D</title>
+      <link>https://maizeinfo.netlify.app/variety/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/2/</guid>
+      <description>审定编号 辽审玉20210044&#xA;作物名称 玉米&#xA;品种名称 1907D&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>1908D</title>
+      <link>https://maizeinfo.netlify.app/variety/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/3/</guid>
+      <description>审定编号 辽审玉20210045&#xA;作物名称 玉米&#xA;品种名称 1908D&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>618K</title>
+      <link>https://maizeinfo.netlify.app/variety/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/5/</guid>
+      <description>审定编号 辽审玉20210048&#xA;作物名称 玉米&#xA;品种名称 618K&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>699X</title>
+      <link>https://maizeinfo.netlify.app/variety/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/6/</guid>
+      <description>审定编号 辽审玉20210006&#xA;作物名称 玉米&#xA;品种名称 699X&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>A1568</title>
+      <link>https://maizeinfo.netlify.app/variety/7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/7/</guid>
+      <description>审定编号 晋审玉20210001&#xA;作物名称 玉米&#xA;品种名称 A1568&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>A1819</title>
+      <link>https://maizeinfo.netlify.app/variety/8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/8/</guid>
+      <description>审定编号 晋审玉20210008&#xA;作物名称 玉米&#xA;品种名称 A1819&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>A2058</title>
+      <link>https://maizeinfo.netlify.app/variety/9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/9/</guid>
+      <description>审定编号 国审玉20231004&#xA;作物名称 玉米&#xA;品种名称 A2058&#xA;审定年份 2023&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>A6118</title>
+      <link>https://maizeinfo.netlify.app/variety/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/10/</guid>
+      <description>审定编号 辽审玉20210039&#xA;作物名称 玉米&#xA;品种名称 A6118&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>B1791</title>
+      <link>https://maizeinfo.netlify.app/variety/11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/11/</guid>
+      <description>审定编号 国审玉20210066&#xA;作物名称 玉米&#xA;品种名称 B1791&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>BF2503</title>
+      <link>https://maizeinfo.netlify.app/variety/12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/12/</guid>
+      <description>审定编号 甘审玉20210086&#xA;作物名称 玉米&#xA;品种名称 BF2503&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>BF2504</title>
+      <link>https://maizeinfo.netlify.app/variety/13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/13/</guid>
+      <description>审定编号 甘审玉20210087&#xA;作物名称 玉米&#xA;品种名称 BF2504&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>BF2508</title>
+      <link>https://maizeinfo.netlify.app/variety/14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/14/</guid>
+      <description>审定编号 甘审玉20210088&#xA;作物名称 玉米&#xA;品种名称 BF2508&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>BF3253</title>
+      <link>https://maizeinfo.netlify.app/variety/15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/15/</guid>
+      <description>审定编号 国审玉20231007&#xA;作物名称 玉米&#xA;品种名称 BF3253&#xA;审定年份 2023&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>BM4192</title>
+      <link>https://maizeinfo.netlify.app/variety/16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/16/</guid>
+      <description>审定编号 京审玉20210007&#xA;作物名称 玉米&#xA;品种名称 BM4192&#xA;审定年份 2021&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>BM492</title>
+      <link>https://maizeinfo.netlify.app/variety/17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/17/</guid>
+      <description>审定编号 京审玉20210009&#xA;作物名称 玉米&#xA;品种名称 BM492&#xA;审定年份 2021&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>BMB458</title>
+      <link>https://maizeinfo.netlify.app/variety/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/18/</guid>
+      <description>审定编号 浙审玉2021002&#xA;作物名称 玉米&#xA;品种名称 BMB458&#xA;审定年份 2021&#xA;审定单位 浙江省</description>
+    </item>
+    <item>
+      <title>CL1588</title>
+      <link>https://maizeinfo.netlify.app/variety/19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/19/</guid>
+      <description>审定编号 国审玉20231005&#xA;作物名称 玉米&#xA;品种名称 CL1588&#xA;审定年份 2023&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>D309</title>
+      <link>https://maizeinfo.netlify.app/variety/20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/20/</guid>
+      <description>审定编号 吉审玉20210097&#xA;作物名称 玉米&#xA;品种名称 D309&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>D507</title>
+      <link>https://maizeinfo.netlify.app/variety/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/21/</guid>
+      <description>审定编号 吉审玉20210092&#xA;作物名称 玉米&#xA;品种名称 D507&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>D802</title>
+      <link>https://maizeinfo.netlify.app/variety/22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/22/</guid>
+      <description>审定编号 吉审玉20210078&#xA;作物名称 玉米&#xA;品种名称 D802&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>D805</title>
+      <link>https://maizeinfo.netlify.app/variety/23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/23/</guid>
+      <description>审定编号 吉审玉20210098&#xA;作物名称 玉米&#xA;品种名称 D805&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>D901</title>
+      <link>https://maizeinfo.netlify.app/variety/24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/24/</guid>
+      <description>审定编号 吉审玉20210083&#xA;作物名称 玉米&#xA;品种名称 D901&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>D908</title>
+      <link>https://maizeinfo.netlify.app/variety/25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/25/</guid>
+      <description>审定编号 吉审玉20210099&#xA;作物名称 玉米&#xA;品种名称 D908&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>DF20</title>
+      <link>https://maizeinfo.netlify.app/variety/26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/26/</guid>
+      <description>审定编号 国审玉20210067&#xA;作物名称 玉米&#xA;品种名称 DF20&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>DF286</title>
+      <link>https://maizeinfo.netlify.app/variety/27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/27/</guid>
+      <description>审定编号 晋审玉20210033&#xA;作物名称 玉米&#xA;品种名称 DF286&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>DF607</title>
+      <link>https://maizeinfo.netlify.app/variety/28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/28/</guid>
+      <description>审定编号 宁审玉20210012&#xA;作物名称 玉米&#xA;品种名称 DF607&#xA;审定年份 2021&#xA;审定单位 宁夏回族自治区</description>
+    </item>
+    <item>
+      <title>DF617</title>
+      <link>https://maizeinfo.netlify.app/variety/29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/29/</guid>
+      <description>审定编号 宁审玉20210006&#xA;作物名称 玉米&#xA;品种名称 DF617&#xA;审定年份 2021&#xA;审定单位 宁夏回族自治区</description>
+    </item>
+    <item>
+      <title>DF708</title>
+      <link>https://maizeinfo.netlify.app/variety/30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/30/</guid>
+      <description>审定编号 辽审玉20210061&#xA;作物名称 玉米&#xA;品种名称 DF708&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>DF899</title>
+      <link>https://maizeinfo.netlify.app/variety/31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/31/</guid>
+      <description>审定编号 陕审玉20210006号&#xA;作物名称 玉米&#xA;品种名称 DF899&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>DF992</title>
+      <link>https://maizeinfo.netlify.app/variety/32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/32/</guid>
+      <description>审定编号 晋审玉20210060&#xA;作物名称 玉米&#xA;品种名称 DF992&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>DK339</title>
+      <link>https://maizeinfo.netlify.app/variety/33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/33/</guid>
+      <description>审定编号 吉审玉20210064&#xA;作物名称 玉米&#xA;品种名称 DK339&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>DK717</title>
+      <link>https://maizeinfo.netlify.app/variety/34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/34/</guid>
+      <description>审定编号 晋审玉20210069&#xA;作物名称 玉米&#xA;品种名称 DK717&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>DK818</title>
+      <link>https://maizeinfo.netlify.app/variety/35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/35/</guid>
+      <description>审定编号 甘审玉20210049&#xA;作物名称 玉米&#xA;品种名称 DK818&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>DL4949</title>
+      <link>https://maizeinfo.netlify.app/variety/36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/36/</guid>
+      <description>审定编号 辽审玉20210023&#xA;作物名称 玉米&#xA;品种名称 DL4949&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>EF1988</title>
+      <link>https://maizeinfo.netlify.app/variety/37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/37/</guid>
+      <description>审定编号 辽审玉20210010&#xA;作物名称 玉米&#xA;品种名称 EF1988&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>F2817</title>
+      <link>https://maizeinfo.netlify.app/variety/38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/38/</guid>
+      <description>审定编号 吉审玉20210006&#xA;作物名称 玉米&#xA;品种名称 F2817&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>F318</title>
+      <link>https://maizeinfo.netlify.app/variety/39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/39/</guid>
+      <description>审定编号 辽审玉20210060&#xA;作物名称 玉米&#xA;品种名称 F318&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>F9001</title>
+      <link>https://maizeinfo.netlify.app/variety/40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/40/</guid>
+      <description>审定编号 辽审玉20210022&#xA;作物名称 玉米&#xA;品种名称 F9001&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>FSZW31</title>
+      <link>https://maizeinfo.netlify.app/variety/41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/41/</guid>
+      <description>审定编号 辽审玉20210083&#xA;作物名称 玉米&#xA;品种名称 FSZW31&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>G902</title>
+      <link>https://maizeinfo.netlify.app/variety/42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/42/</guid>
+      <description>审定编号 辽审玉20210009&#xA;作物名称 玉米&#xA;品种名称 G902&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>G9826</title>
+      <link>https://maizeinfo.netlify.app/variety/43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/43/</guid>
+      <description>审定编号 甘审玉20210009&#xA;作物名称 玉米&#xA;品种名称 G9826&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>G9826</title>
+      <link>https://maizeinfo.netlify.app/variety/44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/44/</guid>
+      <description>审定编号 陕审玉20210079号&#xA;作物名称 玉米&#xA;品种名称 G9826&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>gb-4-2</title>
+      <link>https://maizeinfo.netlify.app/variety/45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/45/</guid>
+      <description>审定编号 蒙认饲2011004号&#xA;作物名称 玉米&#xA;品种名称 gb-4-2&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>GENOMES</title>
+      <link>https://maizeinfo.netlify.app/genomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/genomes/</guid>
+      <description>Zm-A632-REFERENCE-CAAS_FIL-1.0 Assembly identifier: Zm00092a Project name: CAAS Founder Inbred Lines GenBank BioProject: PRJNA755430 Sample name: A632 DOI: https://dx.</description>
+    </item>
+    <item>
+      <title>GF3669</title>
+      <link>https://maizeinfo.netlify.app/variety/46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/46/</guid>
+      <description>审定编号 陕审玉20210058号&#xA;作物名称 玉米&#xA;品种名称 GF3669&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>GF718</title>
+      <link>https://maizeinfo.netlify.app/variety/47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/47/</guid>
+      <description>审定编号 辽审玉20210078&#xA;作物名称 玉米&#xA;品种名称 GF718&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>GFY288</title>
+      <link>https://maizeinfo.netlify.app/variety/48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/48/</guid>
+      <description>审定编号 甘审玉20210077&#xA;作物名称 玉米&#xA;品种名称 GFY288&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>GS717</title>
+      <link>https://maizeinfo.netlify.app/variety/49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/49/</guid>
+      <description>审定编号 辽审玉20210052&#xA;作物名称 玉米&#xA;品种名称 GS717&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>H1111</title>
+      <link>https://maizeinfo.netlify.app/variety/50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/50/</guid>
+      <description>审定编号 辽审玉20210077&#xA;作物名称 玉米&#xA;品种名称 H1111&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>H600</title>
+      <link>https://maizeinfo.netlify.app/variety/51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/51/</guid>
+      <description>审定编号 吉审玉2010045&#xA;作物名称 玉米&#xA;品种名称 H600&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>H712</title>
+      <link>https://maizeinfo.netlify.app/variety/52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/52/</guid>
+      <description>审定编号 辽审玉20210092&#xA;作物名称 玉米&#xA;品种名称 H712&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>HC858</title>
+      <link>https://maizeinfo.netlify.app/variety/53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/53/</guid>
+      <description>审定编号 晋审玉20210036&#xA;作物名称 玉米&#xA;品种名称 HC858&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>HF1105</title>
+      <link>https://maizeinfo.netlify.app/variety/54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/54/</guid>
+      <description>审定编号 甘审玉20210082&#xA;作物名称 玉米&#xA;品种名称 HF1105&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>HF199</title>
+      <link>https://maizeinfo.netlify.app/variety/55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/55/</guid>
+      <description>审定编号 甘审玉20210078&#xA;作物名称 玉米&#xA;品种名称 HF199&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>HF668</title>
+      <link>https://maizeinfo.netlify.app/variety/56/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/56/</guid>
+      <description>审定编号 甘审玉20210079&#xA;作物名称 玉米&#xA;品种名称 HF668&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>HF712</title>
+      <link>https://maizeinfo.netlify.app/variety/57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/57/</guid>
+      <description>审定编号 甘审玉20210080&#xA;作物名称 玉米&#xA;品种名称 HF712&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>HF832</title>
+      <link>https://maizeinfo.netlify.app/variety/58/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/58/</guid>
+      <description>审定编号 甘审玉20210081&#xA;作物名称 玉米&#xA;品种名称 HF832&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>HJ11</title>
+      <link>https://maizeinfo.netlify.app/variety/59/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/59/</guid>
+      <description>审定编号 辽审玉20210024&#xA;作物名称 玉米&#xA;品种名称 HJ11&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>HS533</title>
+      <link>https://maizeinfo.netlify.app/variety/60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/60/</guid>
+      <description>审定编号 晋审玉20210034&#xA;作物名称 玉米&#xA;品种名称 HS533&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>HX001</title>
+      <link>https://maizeinfo.netlify.app/variety/61/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/61/</guid>
+      <description>审定编号 辽审玉20210079&#xA;作物名称 玉米&#xA;品种名称 HX001&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>HX006</title>
+      <link>https://maizeinfo.netlify.app/variety/62/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/62/</guid>
+      <description>审定编号 辽审玉20210013&#xA;作物名称 玉米&#xA;品种名称 HX006&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>HY867</title>
+      <link>https://maizeinfo.netlify.app/variety/63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/63/</guid>
+      <description>审定编号 吉审玉20210090&#xA;作物名称 玉米&#xA;品种名称 HY867&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>J9881</title>
+      <link>https://maizeinfo.netlify.app/variety/64/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/64/</guid>
+      <description>审定编号 豫审玉20210009&#xA;作物名称 玉米&#xA;品种名称 J9881&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>JF198</title>
+      <link>https://maizeinfo.netlify.app/variety/65/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/65/</guid>
+      <description>审定编号 辽审玉20210069&#xA;作物名称 玉米&#xA;品种名称 JF198&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>K515</title>
+      <link>https://maizeinfo.netlify.app/variety/66/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/66/</guid>
+      <description>审定编号 辽审玉20210028&#xA;作物名称 玉米&#xA;品种名称 K515&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>KBS1701</title>
+      <link>https://maizeinfo.netlify.app/variety/67/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/67/</guid>
+      <description>审定编号 国审玉20210016&#xA;作物名称 玉米&#xA;品种名称 KBS1701&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>KX3564</title>
+      <link>https://maizeinfo.netlify.app/variety/68/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/68/</guid>
+      <description>审定编号 宁审玉2010004&#xA;作物名称 玉米&#xA;品种名称 KX3564&#xA;审定年份 2010&#xA;审定单位 宁夏回族自治区</description>
+    </item>
+    <item>
+      <title>K玉28</title>
+      <link>https://maizeinfo.netlify.app/variety/69/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/69/</guid>
+      <description>审定编号 湘审玉20210002&#xA;作物名称 玉米&#xA;品种名称 K玉28&#xA;审定年份 2021&#xA;审定单位 湖南省</description>
+    </item>
+    <item>
+      <title>L1099</title>
+      <link>https://maizeinfo.netlify.app/variety/70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/70/</guid>
+      <description>审定编号 辽审玉20210087&#xA;作物名称 玉米&#xA;品种名称 L1099&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>L189</title>
+      <link>https://maizeinfo.netlify.app/variety/71/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/71/</guid>
+      <description>审定编号 辽审玉20210012&#xA;作物名称 玉米&#xA;品种名称 L189&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>L678</title>
+      <link>https://maizeinfo.netlify.app/variety/72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/72/</guid>
+      <description>审定编号 辽审玉20210100&#xA;作物名称 玉米&#xA;品种名称 L678&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>LG1611</title>
+      <link>https://maizeinfo.netlify.app/variety/73/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/73/</guid>
+      <description>审定编号 国审玉20210027&#xA;作物名称 玉米&#xA;品种名称 LG1611&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>LG4232</title>
+      <link>https://maizeinfo.netlify.app/variety/74/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/74/</guid>
+      <description>审定编号 国审玉20210028&#xA;作物名称 玉米&#xA;品种名称 LG4232&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>LITERATUREC</title>
+      <link>https://maizeinfo.netlify.app/literature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/literature/</guid>
+      <description>Peruvian Andean maize: General characteristics, nutritional properties, bioactive compounds, and culinary uses.</description>
+    </item>
+    <item>
+      <title>M1833</title>
+      <link>https://maizeinfo.netlify.app/variety/75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/75/</guid>
+      <description>审定编号 国审玉20210006&#xA;作物名称 玉米&#xA;品种名称 M1833&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>M1919</title>
+      <link>https://maizeinfo.netlify.app/variety/76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/76/</guid>
+      <description>审定编号 蒙审玉2021100号&#xA;作物名称 玉米&#xA;品种名称 M1919&#xA;审定年份 2021&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>MC838</title>
+      <link>https://maizeinfo.netlify.app/variety/77/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/77/</guid>
+      <description>审定编号 京审玉20210003&#xA;作物名称 玉米&#xA;品种名称 MC838&#xA;审定年份 2021&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>MC876</title>
+      <link>https://maizeinfo.netlify.app/variety/78/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/78/</guid>
+      <description>审定编号 豫审玉20210005&#xA;作物名称 玉米&#xA;品种名称 MC876&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>ND367</title>
+      <link>https://maizeinfo.netlify.app/variety/79/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/79/</guid>
+      <description>审定编号 皖审玉20210020&#xA;作物名称 玉米&#xA;品种名称 ND367&#xA;审定年份 2021&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>NF1606</title>
+      <link>https://maizeinfo.netlify.app/variety/80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/80/</guid>
+      <description>审定编号 黑审玉20210017&#xA;作物名称 玉米&#xA;品种名称 NF1606&#xA;审定年份 2021&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>NG1408</title>
+      <link>https://maizeinfo.netlify.app/variety/81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/81/</guid>
+      <description>审定编号 国审玉20210068&#xA;作物名称 玉米&#xA;品种名称 NG1408&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>NK718</title>
+      <link>https://maizeinfo.netlify.app/variety/82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/82/</guid>
+      <description>审定编号 蒙审玉2011003号&#xA;作物名称 玉米&#xA;品种名称 NK718&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>NK733</title>
+      <link>https://maizeinfo.netlify.app/variety/83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/83/</guid>
+      <description>审定编号 蒙审玉2010030号&#xA;作物名称 玉米&#xA;品种名称 NK733&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>P1812</title>
+      <link>https://maizeinfo.netlify.app/variety/84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/84/</guid>
+      <description>审定编号 国审玉20210001&#xA;作物名称 玉米&#xA;品种名称 P1812&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>QK161</title>
+      <link>https://maizeinfo.netlify.app/variety/85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/85/</guid>
+      <description>审定编号 皖审玉20210017&#xA;作物名称 玉米&#xA;品种名称 QK161&#xA;审定年份 2021&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RF699</title>
+      <link>https://maizeinfo.netlify.app/variety/86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/86/</guid>
+      <description>审定编号 甘审玉20210013&#xA;作物名称 玉米&#xA;品种名称 RF699&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>RM678</title>
+      <link>https://maizeinfo.netlify.app/variety/87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/87/</guid>
+      <description>审定编号 冀审玉20210011&#xA;作物名称 玉米&#xA;品种名称 RM678&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>S147</title>
+      <link>https://maizeinfo.netlify.app/variety/88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/88/</guid>
+      <description>审定编号 渝农作品审玉2001008号&#xA;作物名称 玉米&#xA;品种名称 S147&#xA;审定年份 2001&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>S181</title>
+      <link>https://maizeinfo.netlify.app/variety/89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/89/</guid>
+      <description>审定编号 渝农作品审玉2001007号&#xA;作物名称 玉米&#xA;品种名称 S181&#xA;审定年份 2001&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>S6533</title>
+      <link>https://maizeinfo.netlify.app/variety/90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/90/</guid>
+      <description>审定编号 晋审玉20210029&#xA;作物名称 玉米&#xA;品种名称 S6533&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>SC1336</title>
+      <link>https://maizeinfo.netlify.app/variety/91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/91/</guid>
+      <description>审定编号 闽审玉20210008&#xA;作物名称 玉米&#xA;品种名称 SC1336&#xA;审定年份 2021&#xA;审定单位 福建省</description>
+    </item>
+    <item>
+      <title>ST1819</title>
+      <link>https://maizeinfo.netlify.app/variety/92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/92/</guid>
+      <description>审定编号 吉审玉20210091&#xA;作物名称 玉米&#xA;品种名称 ST1819&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>SZ18</title>
+      <link>https://maizeinfo.netlify.app/variety/93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/93/</guid>
+      <description>审定编号 豫审玉20210053&#xA;作物名称 玉米&#xA;品种名称 SZ18&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>T1623</title>
+      <link>https://maizeinfo.netlify.app/variety/94/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/94/</guid>
+      <description>审定编号 辽审玉20210037&#xA;作物名称 玉米&#xA;品种名称 T1623&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>T1803</title>
+      <link>https://maizeinfo.netlify.app/variety/95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/95/</guid>
+      <description>审定编号 桂审玉2021008号&#xA;作物名称 玉米&#xA;品种名称 T1803&#xA;审定年份 2021&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>T641</title>
+      <link>https://maizeinfo.netlify.app/variety/96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/96/</guid>
+      <description>审定编号 辽审玉20210034&#xA;作物名称 玉米&#xA;品种名称 T641&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>TD1159</title>
+      <link>https://maizeinfo.netlify.app/variety/97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/97/</guid>
+      <description>审定编号 甘审玉20210097&#xA;作物名称 玉米&#xA;品种名称 TD1159&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>TM678</title>
+      <link>https://maizeinfo.netlify.app/variety/98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/98/</guid>
+      <description>审定编号 辽审玉20210025&#xA;作物名称 玉米&#xA;品种名称 TM678&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>TS2128</title>
+      <link>https://maizeinfo.netlify.app/variety/99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/99/</guid>
+      <description>审定编号 辽审玉20230100&#xA;作物名称 玉米&#xA;品种名称 TS2128&#xA;审定年份 2023&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>V1688</title>
+      <link>https://maizeinfo.netlify.app/variety/100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/100/</guid>
+      <description>审定编号 辽审玉20210067&#xA;作物名称 玉米&#xA;品种名称 V1688&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>V9</title>
+      <link>https://maizeinfo.netlify.app/variety/101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/101/</guid>
+      <description>审定编号 辽审玉20210029&#xA;作物名称 玉米&#xA;品种名称 V9&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>VK868</title>
+      <link>https://maizeinfo.netlify.app/variety/102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/102/</guid>
+      <description>审定编号 辽审玉20220100&#xA;作物名称 玉米&#xA;品种名称 VK868&#xA;审定年份 2022&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>W1919</title>
+      <link>https://maizeinfo.netlify.app/variety/103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/103/</guid>
+      <description>审定编号 辽审玉20210031&#xA;作物名称 玉米&#xA;品种名称 W1919&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>XM1618</title>
+      <link>https://maizeinfo.netlify.app/variety/104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/104/</guid>
+      <description>审定编号 宁审玉20210004&#xA;作物名称 玉米&#xA;品种名称 XM1618&#xA;审定年份 2021&#xA;审定单位 宁夏回族自治区</description>
+    </item>
+    <item>
+      <title>Z708</title>
+      <link>https://maizeinfo.netlify.app/variety/105/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/105/</guid>
+      <description>审定编号 辽审玉20210051&#xA;作物名称 玉米&#xA;品种名称 Z708&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>Z813</title>
+      <link>https://maizeinfo.netlify.app/variety/106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/106/</guid>
+      <description>审定编号 辽审玉20210054&#xA;作物名称 玉米&#xA;品种名称 Z813&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>Z818</title>
+      <link>https://maizeinfo.netlify.app/variety/107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/107/</guid>
+      <description>审定编号 辽审玉20210053&#xA;作物名称 玉米&#xA;品种名称 Z818&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>Z901</title>
+      <link>https://maizeinfo.netlify.app/variety/108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/108/</guid>
+      <description>审定编号 辽审玉20210049&#xA;作物名称 玉米&#xA;品种名称 Z901&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>Z908</title>
+      <link>https://maizeinfo.netlify.app/variety/109/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/109/</guid>
+      <description>审定编号 辽审玉20210057&#xA;作物名称 玉米&#xA;品种名称 Z908&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>ZH945</title>
+      <link>https://maizeinfo.netlify.app/variety/110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/110/</guid>
+      <description>审定编号 陕审玉20210045号&#xA;作物名称 玉米&#xA;品种名称 ZH945&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>东农250</title>
+      <link>https://maizeinfo.netlify.app/variety/338/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/338/</guid>
+      <description>审定编号 黑审玉2001004&#xA;作物名称 玉米&#xA;品种名称 东农250&#xA;审定年份 2001&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>东农252</title>
+      <link>https://maizeinfo.netlify.app/variety/339/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/339/</guid>
+      <description>审定编号 吉审玉2011005&#xA;作物名称 玉米&#xA;品种名称 东农252&#xA;审定年份 2011&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>东农299</title>
+      <link>https://maizeinfo.netlify.app/variety/340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/340/</guid>
+      <description>审定编号 国审玉20231006&#xA;作物名称 玉米&#xA;品种名称 东农299&#xA;审定年份 2023&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>东单10号</title>
+      <link>https://maizeinfo.netlify.app/variety/333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/333/</guid>
+      <description>审定编号 渝引玉2011003&#xA;作物名称 玉米&#xA;品种名称 东单10号&#xA;审定年份 2011&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>东单13号</title>
+      <link>https://maizeinfo.netlify.app/variety/334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/334/</guid>
+      <description>审定编号 国审玉2001003&#xA;作物名称 玉米&#xA;品种名称 东单13号&#xA;审定年份 2001&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>东单13号</title>
+      <link>https://maizeinfo.netlify.app/variety/335/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/335/</guid>
+      <description>审定编号 辽审玉[2001]100号&#xA;作物名称 玉米&#xA;品种名称 东单13号&#xA;审定年份 2001&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>东单335</title>
+      <link>https://maizeinfo.netlify.app/variety/336/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/336/</guid>
+      <description>审定编号 津准引玉2010006&#xA;作物名称 玉米&#xA;品种名称 东单335&#xA;审定年份 2011&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>东单969</title>
+      <link>https://maizeinfo.netlify.app/variety/337/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/337/</guid>
+      <description>审定编号 蒙审玉2010022号&#xA;作物名称 玉米&#xA;品种名称 东单969&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>东沃20</title>
+      <link>https://maizeinfo.netlify.app/variety/342/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/342/</guid>
+      <description>审定编号 辽审玉20210027&#xA;作物名称 玉米&#xA;品种名称 东沃20&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>东裕108</title>
+      <link>https://maizeinfo.netlify.app/variety/343/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/343/</guid>
+      <description>审定编号 国审玉2011006&#xA;作物名称 玉米&#xA;品种名称 东裕108&#xA;审定年份 2011&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>东裕108</title>
+      <link>https://maizeinfo.netlify.app/variety/344/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/344/</guid>
+      <description>审定编号 吉审玉2010029&#xA;作物名称 玉米&#xA;品种名称 东裕108&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>东裕128</title>
+      <link>https://maizeinfo.netlify.app/variety/345/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/345/</guid>
+      <description>审定编号 辽审玉20210097&#xA;作物名称 玉米&#xA;品种名称 东裕128&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>东裕208</title>
+      <link>https://maizeinfo.netlify.app/variety/346/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/346/</guid>
+      <description>审定编号 辽审玉20210093&#xA;作物名称 玉米&#xA;品种名称 东裕208&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>东裕33</title>
+      <link>https://maizeinfo.netlify.app/variety/347/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/347/</guid>
+      <description>审定编号 陕审玉2010001&#xA;作物名称 玉米&#xA;品种名称 东裕33&#xA;审定年份 2010&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>东裕555</title>
+      <link>https://maizeinfo.netlify.app/variety/348/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/348/</guid>
+      <description>审定编号 辽审玉20210066&#xA;作物名称 玉米&#xA;品种名称 东裕555&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>东青5号</title>
+      <link>https://maizeinfo.netlify.app/variety/341/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/341/</guid>
+      <description>审定编号 黑审玉20210031&#xA;作物名称 玉米&#xA;品种名称 东青5号&#xA;审定年份 2021&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>丰乐21</title>
+      <link>https://maizeinfo.netlify.app/variety/372/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/372/</guid>
+      <description>审定编号 皖玉2010002&#xA;作物名称 玉米&#xA;品种名称 丰乐21&#xA;审定年份 2010&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>丰乐307</title>
+      <link>https://maizeinfo.netlify.app/variety/373/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/373/</guid>
+      <description>审定编号 皖审玉20210014&#xA;作物名称 玉米&#xA;品种名称 丰乐307&#xA;审定年份 2021&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>丰单80</title>
+      <link>https://maizeinfo.netlify.app/variety/368/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/368/</guid>
+      <description>审定编号 渝审玉2010006&#xA;作物名称 玉米&#xA;品种名称 丰单80&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>丰垦008</title>
+      <link>https://maizeinfo.netlify.app/variety/371/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/371/</guid>
+      <description>审定编号 蒙审玉2010007号&#xA;作物名称 玉米&#xA;品种名称 丰垦008&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>丰大602</title>
+      <link>https://maizeinfo.netlify.app/variety/366/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/366/</guid>
+      <description>审定编号 皖审玉20210007&#xA;作物名称 玉米&#xA;品种名称 丰大602&#xA;审定年份 2021&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>丰大611</title>
+      <link>https://maizeinfo.netlify.app/variety/367/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/367/</guid>
+      <description>审定编号 皖审玉20201009&#xA;作物名称 玉米&#xA;品种名称 丰大611&#xA;审定年份 2020&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>丰早303</title>
+      <link>https://maizeinfo.netlify.app/variety/378/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/378/</guid>
+      <description>审定编号 蒙审玉2010003号&#xA;作物名称 玉米&#xA;品种名称 丰早303&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>丰歌玉958（区试名称：碧玉11号）</title>
+      <link>https://maizeinfo.netlify.app/variety/369/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/369/</guid>
+      <description>审定编号 黔审玉20210009&#xA;作物名称 玉米&#xA;品种名称 丰歌玉958（区试名称：碧玉11号）&#xA;审定年份 2021&#xA;审定单位 贵州省</description>
+    </item>
+    <item>
+      <title>丰爆101</title>
+      <link>https://maizeinfo.netlify.app/variety/363/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/363/</guid>
+      <description>审定编号 吉审玉20210046&#xA;作物名称 玉米&#xA;品种名称 丰爆101&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>丰爆103</title>
+      <link>https://maizeinfo.netlify.app/variety/364/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/364/</guid>
+      <description>审定编号 吉审玉20210047&#xA;作物名称 玉米&#xA;品种名称 丰爆103&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>丰玉98</title>
+      <link>https://maizeinfo.netlify.app/variety/377/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/377/</guid>
+      <description>审定编号 皖审玉20201003&#xA;作物名称 玉米&#xA;品种名称 丰玉98&#xA;审定年份 2020&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>丰田833</title>
+      <link>https://maizeinfo.netlify.app/variety/375/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/375/</guid>
+      <description>审定编号 蒙审玉2010026号&#xA;作物名称 玉米&#xA;品种名称 丰田833&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>丰田837</title>
+      <link>https://maizeinfo.netlify.app/variety/376/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/376/</guid>
+      <description>审定编号 蒙审玉2010037号&#xA;作物名称 玉米&#xA;品种名称 丰田837&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>丰禾759</title>
+      <link>https://maizeinfo.netlify.app/variety/370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/370/</guid>
+      <description>审定编号 国审玉20231008&#xA;作物名称 玉米&#xA;品种名称 丰禾759&#xA;审定年份 2023&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>丰茂99</title>
+      <link>https://maizeinfo.netlify.app/variety/374/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/374/</guid>
+      <description>审定编号 晋审玉20210007&#xA;作物名称 玉米&#xA;品种名称 丰茂99&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>丰驰V8</title>
+      <link>https://maizeinfo.netlify.app/variety/365/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/365/</guid>
+      <description>审定编号 吉审玉20210028&#xA;作物名称 玉米&#xA;品种名称 丰驰V8&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>丹垦868</title>
+      <link>https://maizeinfo.netlify.app/variety/291/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/291/</guid>
+      <description>审定编号 国审玉20210030&#xA;作物名称 玉米&#xA;品种名称 丹垦868&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>丹玉558</title>
+      <link>https://maizeinfo.netlify.app/variety/292/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/292/</guid>
+      <description>审定编号 国审玉20210018&#xA;作物名称 玉米&#xA;品种名称 丹玉558&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>丹玉668</title>
+      <link>https://maizeinfo.netlify.app/variety/293/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/293/</guid>
+      <description>审定编号 辽审玉20210094&#xA;作物名称 玉米&#xA;品种名称 丹玉668&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>丹福6号</title>
+      <link>https://maizeinfo.netlify.app/variety/289/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/289/</guid>
+      <description>审定编号 豫审玉2010013&#xA;作物名称 玉米&#xA;品种名称 丹福6号&#xA;审定年份 2010&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>丹科9919</title>
+      <link>https://maizeinfo.netlify.app/variety/290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/290/</guid>
+      <description>审定编号 辽审玉20210085&#xA;作物名称 玉米&#xA;品种名称 丹科9919&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>保玉13号</title>
+      <link>https://maizeinfo.netlify.app/variety/160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/160/</guid>
+      <description>审定编号 滇审玉米2010002号&#xA;作物名称 玉米&#xA;品种名称 保玉13号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>傲单5</title>
+      <link>https://maizeinfo.netlify.app/variety/123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/123/</guid>
+      <description>审定编号 黑审玉20210007&#xA;作物名称 玉米&#xA;品种名称 傲单5&#xA;审定年份 2021&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>北农486</title>
+      <link>https://maizeinfo.netlify.app/variety/162/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/162/</guid>
+      <description>审定编号 京审玉20210004&#xA;作物名称 玉米&#xA;品种名称 北农486&#xA;审定年份 2021&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>北农青贮318</title>
+      <link>https://maizeinfo.netlify.app/variety/163/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/163/</guid>
+      <description>审定编号 京审玉2011006&#xA;作物名称 玉米&#xA;品种名称 北农青贮318&#xA;审定年份 2011&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>北单5号</title>
+      <link>https://maizeinfo.netlify.app/variety/161/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/161/</guid>
+      <description>审定编号 黑审玉2010036&#xA;作物名称 玉米&#xA;品种名称 北单5号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>北玉1567</title>
+      <link>https://maizeinfo.netlify.app/variety/166/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/166/</guid>
+      <description>审定编号 滇审玉米2021006号&#xA;作物名称 玉米&#xA;品种名称 北玉1567&#xA;审定年份 2021&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>北玉20号</title>
+      <link>https://maizeinfo.netlify.app/variety/167/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/167/</guid>
+      <description>审定编号 滇特(保山)审玉米2010058号&#xA;作物名称 玉米&#xA;品种名称 北玉20号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>北玉20号</title>
+      <link>https://maizeinfo.netlify.app/variety/168/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/168/</guid>
+      <description>审定编号 滇特(大理)审玉米2010048号&#xA;作物名称 玉米&#xA;品种名称 北玉20号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>北玉21号</title>
+      <link>https://maizeinfo.netlify.app/variety/169/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/169/</guid>
+      <description>审定编号 滇特(曲靖)审玉米2010038号&#xA;作物名称 玉米&#xA;品种名称 北玉21号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>北玉509</title>
+      <link>https://maizeinfo.netlify.app/variety/170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/170/</guid>
+      <description>审定编号 晋审玉2010027&#xA;作物名称 玉米&#xA;品种名称 北玉509&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>北甜玉1号</title>
+      <link>https://maizeinfo.netlify.app/variety/165/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/165/</guid>
+      <description>审定编号 黑审玉2010041&#xA;作物名称 玉米&#xA;品种名称 北甜玉1号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>北青610</title>
+      <link>https://maizeinfo.netlify.app/variety/164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/164/</guid>
+      <description>审定编号 国审玉20210069&#xA;作物名称 玉米&#xA;品种名称 北青610&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>博丰8100（区试名称：黔农玉7号）</title>
+      <link>https://maizeinfo.netlify.app/variety/195/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/195/</guid>
+      <description>审定编号 黔审玉20210025&#xA;作物名称 玉米&#xA;品种名称 博丰8100（区试名称：黔农玉7号）&#xA;审定年份 2021&#xA;审定单位 贵州省</description>
+    </item>
+    <item>
+      <title>博奥521</title>
+      <link>https://maizeinfo.netlify.app/variety/192/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/192/</guid>
+      <description>审定编号 甘审玉20210085&#xA;作物名称 玉米&#xA;品种名称 博奥521&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>博奥602</title>
+      <link>https://maizeinfo.netlify.app/variety/193/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/193/</guid>
+      <description>审定编号 国审玉20210008&#xA;作物名称 玉米&#xA;品种名称 博奥602&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>博爆5401</title>
+      <link>https://maizeinfo.netlify.app/variety/194/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/194/</guid>
+      <description>审定编号 甘审玉2010020&#xA;作物名称 玉米&#xA;品种名称 博爆5401&#xA;审定年份 2010&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>博糯118</title>
+      <link>https://maizeinfo.netlify.app/variety/196/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/196/</guid>
+      <description>审定编号 豫审玉20210057&#xA;作物名称 玉米&#xA;品种名称 博糯118&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>博赟88</title>
+      <link>https://maizeinfo.netlify.app/variety/197/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/197/</guid>
+      <description>审定编号 陕审玉20210026号&#xA;作物名称 玉米&#xA;品种名称 博赟88&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>城玉五号</title>
+      <link>https://maizeinfo.netlify.app/variety/238/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/238/</guid>
+      <description>审定编号 吉审玉2001006&#xA;作物名称 玉米&#xA;品种名称 城玉五号&#xA;审定年份 2001&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>大丰1407</title>
+      <link>https://maizeinfo.netlify.app/variety/261/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/261/</guid>
+      <description>审定编号 宁审玉20210007&#xA;作物名称 玉米&#xA;品种名称 大丰1407&#xA;审定年份 2021&#xA;审定单位 宁夏回族自治区</description>
+    </item>
+    <item>
+      <title>大丰3号</title>
+      <link>https://maizeinfo.netlify.app/variety/262/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/262/</guid>
+      <description>审定编号 滇特(临沧)审玉米2010070号&#xA;作物名称 玉米&#xA;品种名称 大丰3号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>大丰青贮1号</title>
+      <link>https://maizeinfo.netlify.app/variety/263/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/263/</guid>
+      <description>审定编号 晋审玉2010034&#xA;作物名称 玉米&#xA;品种名称 大丰青贮1号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>大华1533</title>
+      <link>https://maizeinfo.netlify.app/variety/264/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/264/</guid>
+      <description>审定编号 苏审玉20210004&#xA;作物名称 玉米&#xA;品种名称 大华1533&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>大华1601</title>
+      <link>https://maizeinfo.netlify.app/variety/265/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/265/</guid>
+      <description>审定编号 苏审玉20210005&#xA;作物名称 玉米&#xA;品种名称 大华1601&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>大华1623</title>
+      <link>https://maizeinfo.netlify.app/variety/266/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/266/</guid>
+      <description>审定编号 苏审玉20210001&#xA;作物名称 玉米&#xA;品种名称 大华1623&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>大华1801</title>
+      <link>https://maizeinfo.netlify.app/variety/267/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/267/</guid>
+      <description>审定编号 苏审玉20210013&#xA;作物名称 玉米&#xA;品种名称 大华1801&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>大华1802</title>
+      <link>https://maizeinfo.netlify.app/variety/268/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/268/</guid>
+      <description>审定编号 苏审玉20210021&#xA;作物名称 玉米&#xA;品种名称 大华1802&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>大唐121</title>
+      <link>https://maizeinfo.netlify.app/variety/276/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/276/</guid>
+      <description>审定编号 陕审玉2011003&#xA;作物名称 玉米&#xA;品种名称 大唐121&#xA;审定年份 2011&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大唐121</title>
+      <link>https://maizeinfo.netlify.app/variety/277/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/277/</guid>
+      <description>审定编号 陕审玉20210033号&#xA;作物名称 玉米&#xA;品种名称 大唐121&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大唐1380</title>
+      <link>https://maizeinfo.netlify.app/variety/278/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/278/</guid>
+      <description>审定编号 陕审玉20210059号&#xA;作物名称 玉米&#xA;品种名称 大唐1380&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大唐16</title>
+      <link>https://maizeinfo.netlify.app/variety/279/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/279/</guid>
+      <description>审定编号 陕审玉20210077号&#xA;作物名称 玉米&#xA;品种名称 大唐16&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大唐303</title>
+      <link>https://maizeinfo.netlify.app/variety/280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/280/</guid>
+      <description>审定编号 陕审玉20210042号&#xA;作物名称 玉米&#xA;品种名称 大唐303&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大地708</title>
+      <link>https://maizeinfo.netlify.app/variety/258/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/258/</guid>
+      <description>审定编号 冀审玉20210014&#xA;作物名称 玉米&#xA;品种名称 大地708&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>大地815</title>
+      <link>https://maizeinfo.netlify.app/variety/259/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/259/</guid>
+      <description>审定编号 陕审玉20210053号&#xA;作物名称 玉米&#xA;品种名称 大地815&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大地816</title>
+      <link>https://maizeinfo.netlify.app/variety/260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/260/</guid>
+      <description>审定编号 陕审玉20210057号&#xA;作物名称 玉米&#xA;品种名称 大地816&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>大天2416</title>
+      <link>https://maizeinfo.netlify.app/variety/281/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/281/</guid>
+      <description>审定编号 国审玉20210087&#xA;作物名称 玉米&#xA;品种名称 大天2416&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>大智898</title>
+      <link>https://maizeinfo.netlify.app/variety/288/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/288/</guid>
+      <description>审定编号 国审玉20210029&#xA;作物名称 玉米&#xA;品种名称 大智898&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>大槐77</title>
+      <link>https://maizeinfo.netlify.app/variety/269/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/269/</guid>
+      <description>审定编号 晋审玉20210071&#xA;作物名称 玉米&#xA;品种名称 大槐77&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>大槐88</title>
+      <link>https://maizeinfo.netlify.app/variety/270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/270/</guid>
+      <description>审定编号 晋审玉20210079&#xA;作物名称 玉米&#xA;品种名称 大槐88&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>大正2号</title>
+      <link>https://maizeinfo.netlify.app/variety/287/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/287/</guid>
+      <description>审定编号 晋审玉2010013&#xA;作物名称 玉米&#xA;品种名称 大正2号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>大民3307</title>
+      <link>https://maizeinfo.netlify.app/variety/271/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/271/</guid>
+      <description>审定编号 黑审玉2011009&#xA;作物名称 玉米&#xA;品种名称 大民3307&#xA;审定年份 2011&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>大民706</title>
+      <link>https://maizeinfo.netlify.app/variety/272/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/272/</guid>
+      <description>审定编号 蒙审玉2010018号&#xA;作物名称 玉米&#xA;品种名称 大民706&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>大民707</title>
+      <link>https://maizeinfo.netlify.app/variety/273/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/273/</guid>
+      <description>审定编号 蒙审玉2010015号&#xA;作物名称 玉米&#xA;品种名称 大民707&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>大民803</title>
+      <link>https://maizeinfo.netlify.app/variety/274/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/274/</guid>
+      <description>审定编号 蒙审玉2010019号&#xA;作物名称 玉米&#xA;品种名称 大民803&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>大漠8号</title>
+      <link>https://maizeinfo.netlify.app/variety/275/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/275/</guid>
+      <description>审定编号 甘审玉20210057&#xA;作物名称 玉米&#xA;品种名称 大漠8号&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>大玉10号</title>
+      <link>https://maizeinfo.netlify.app/variety/282/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/282/</guid>
+      <description>审定编号 滇特（大理）审玉米2011004号&#xA;作物名称 玉米&#xA;品种名称 大玉10号&#xA;审定年份 2011&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>大玉3号</title>
+      <link>https://maizeinfo.netlify.app/variety/283/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/283/</guid>
+      <description>审定编号 津准引玉2011007&#xA;作物名称 玉米&#xA;品种名称 大玉3号&#xA;审定年份 2011&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>大玉3号</title>
+      <link>https://maizeinfo.netlify.app/variety/284/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/284/</guid>
+      <description>审定编号 冀审玉2010006号&#xA;作物名称 玉米&#xA;品种名称 大玉3号&#xA;审定年份 2010&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>大玉618</title>
+      <link>https://maizeinfo.netlify.app/variety/285/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/285/</guid>
+      <description>审定编号 冀审玉20210016&#xA;作物名称 玉米&#xA;品种名称 大玉618&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>大玉7号</title>
+      <link>https://maizeinfo.netlify.app/variety/286/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/286/</guid>
+      <description>审定编号 滇特(大理)审玉米2010047号&#xA;作物名称 玉米&#xA;品种名称 大玉7号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>奔诚11</title>
+      <link>https://maizeinfo.netlify.app/variety/171/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/171/</guid>
+      <description>审定编号 冀审玉20210026&#xA;作物名称 玉米&#xA;品种名称 奔诚11&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>奔诚6号（国玉3号）</title>
+      <link>https://maizeinfo.netlify.app/variety/172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/172/</guid>
+      <description>审定编号 津审玉2011001&#xA;作物名称 玉米&#xA;品种名称 奔诚6号（国玉3号）&#xA;审定年份 2012&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>奥利10号</title>
+      <link>https://maizeinfo.netlify.app/variety/125/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/125/</guid>
+      <description>审定编号 晋审玉2010020&#xA;作物名称 玉米&#xA;品种名称 奥利10号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>奥利18号</title>
+      <link>https://maizeinfo.netlify.app/variety/126/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/126/</guid>
+      <description>审定编号 晋审玉2011007&#xA;作物名称 玉米&#xA;品种名称 奥利18号&#xA;审定年份 2011&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>奥利66号</title>
+      <link>https://maizeinfo.netlify.app/variety/127/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/127/</guid>
+      <description>审定编号 晋审玉2010019&#xA;作物名称 玉米&#xA;品种名称 奥利66号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>奥利68</title>
+      <link>https://maizeinfo.netlify.app/variety/128/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/128/</guid>
+      <description>审定编号 渝审玉2011004&#xA;作物名称 玉米&#xA;品种名称 奥利68&#xA;审定年份 2011&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>奥原9号</title>
+      <link>https://maizeinfo.netlify.app/variety/133/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/133/</guid>
+      <description>审定编号 鲁审玉20210005&#xA;作物名称 玉米&#xA;品种名称 奥原9号&#xA;审定年份 2021&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>奥弗兰甜玉米</title>
+      <link>https://maizeinfo.netlify.app/variety/124/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/124/</guid>
+      <description>审定编号 粤审玉2010012&#xA;作物名称 玉米&#xA;品种名称 奥弗兰甜玉米&#xA;审定年份 2010&#xA;审定单位 广东省</description>
+    </item>
+    <item>
+      <title>奥星568</title>
+      <link>https://maizeinfo.netlify.app/variety/130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/130/</guid>
+      <description>审定编号 国审玉20210086&#xA;作物名称 玉米&#xA;品种名称 奥星568&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>奥玉21</title>
+      <link>https://maizeinfo.netlify.app/variety/131/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/131/</guid>
+      <description>审定编号 晋审玉2010026&#xA;作物名称 玉米&#xA;品种名称 奥玉21&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>奥玉3628</title>
+      <link>https://maizeinfo.netlify.app/variety/132/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/132/</guid>
+      <description>审定编号 桂审玉2010005号&#xA;作物名称 玉米&#xA;品种名称 奥玉3628&#xA;审定年份 2010&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>奥甜01</title>
+      <link>https://maizeinfo.netlify.app/variety/129/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/129/</guid>
+      <description>审定编号 京审玉2010010&#xA;作物名称 玉米&#xA;品种名称 奥甜01&#xA;审定年份 2010&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>存玉626</title>
+      <link>https://maizeinfo.netlify.app/variety/257/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/257/</guid>
+      <description>审定编号 国审玉20210017&#xA;作物名称 玉米&#xA;品种名称 存玉626&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>安农576</title>
+      <link>https://maizeinfo.netlify.app/variety/120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/120/</guid>
+      <description>审定编号 皖审玉20211009&#xA;作物名称 玉米&#xA;品种名称 安农576&#xA;审定年份 2021&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>安曼80</title>
+      <link>https://maizeinfo.netlify.app/variety/119/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/119/</guid>
+      <description>审定编号 陕审玉20210005号&#xA;作物名称 玉米&#xA;品种名称 安曼80&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>安特3000</title>
+      <link>https://maizeinfo.netlify.app/variety/121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/121/</guid>
+      <description>审定编号 渝审玉2010007&#xA;作物名称 玉米&#xA;品种名称 安特3000&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>安玉706</title>
+      <link>https://maizeinfo.netlify.app/variety/122/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/122/</guid>
+      <description>审定编号 豫审玉20210043&#xA;作物名称 玉米&#xA;品种名称 安玉706&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>安科985</title>
+      <link>https://maizeinfo.netlify.app/variety/118/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/118/</guid>
+      <description>审定编号 皖审玉20221009&#xA;作物名称 玉米&#xA;品种名称 安科985&#xA;审定年份 2022&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>宝乐703</title>
+      <link>https://maizeinfo.netlify.app/variety/158/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/158/</guid>
+      <description>审定编号 桂审玉2021001号&#xA;作物名称 玉米&#xA;品种名称 宝乐703&#xA;审定年份 2021&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>宝单918</title>
+      <link>https://maizeinfo.netlify.app/variety/157/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/157/</guid>
+      <description>审定编号 陕审玉2010007&#xA;作物名称 玉米&#xA;品种名称 宝单918&#xA;审定年份 2010&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>宝玉007</title>
+      <link>https://maizeinfo.netlify.app/variety/159/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/159/</guid>
+      <description>审定编号 黔审玉2011008号&#xA;作物名称 玉米&#xA;品种名称 宝玉007&#xA;审定年份 2011&#xA;审定单位 贵州省</description>
+    </item>
+    <item>
+      <title>宾玉3号</title>
+      <link>https://maizeinfo.netlify.app/variety/184/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/184/</guid>
+      <description>审定编号 黑审玉2010003&#xA;作物名称 玉米&#xA;品种名称 宾玉3号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>宾玉4号</title>
+      <link>https://maizeinfo.netlify.app/variety/185/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/185/</guid>
+      <description>审定编号 黑审玉2010030&#xA;作物名称 玉米&#xA;品种名称 宾玉4号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>川单15</title>
+      <link>https://maizeinfo.netlify.app/variety/244/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/244/</guid>
+      <description>审定编号 渝引玉2001003&#xA;作物名称 玉米&#xA;品种名称 川单15&#xA;审定年份 2001&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>川单21</title>
+      <link>https://maizeinfo.netlify.app/variety/245/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/245/</guid>
+      <description>审定编号 渝引玉2001001&#xA;作物名称 玉米&#xA;品种名称 川单21&#xA;审定年份 2001&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>川单428</title>
+      <link>https://maizeinfo.netlify.app/variety/246/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/246/</guid>
+      <description>审定编号 渝引玉2011004&#xA;作物名称 玉米&#xA;品种名称 川单428&#xA;审定年份 2011&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>川单99</title>
+      <link>https://maizeinfo.netlify.app/variety/247/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/247/</guid>
+      <description>审定编号 国审玉20210096&#xA;作物名称 玉米&#xA;品种名称 川单99&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>巴单29</title>
+      <link>https://maizeinfo.netlify.app/variety/135/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/135/</guid>
+      <description>审定编号 蒙审玉2011004号&#xA;作物名称 玉米&#xA;品种名称 巴单29&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>巴单4</title>
+      <link>https://maizeinfo.netlify.app/variety/136/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/136/</guid>
+      <description>审定编号 黑审玉2001006&#xA;作物名称 玉米&#xA;品种名称 巴单4&#xA;审定年份 2001&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>巴卡拉</title>
+      <link>https://maizeinfo.netlify.app/variety/137/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/137/</guid>
+      <description>审定编号 京审玉2010009&#xA;作物名称 玉米&#xA;品种名称 巴卡拉&#xA;审定年份 2010&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>巴玉10</title>
+      <link>https://maizeinfo.netlify.app/variety/138/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/138/</guid>
+      <description>审定编号 黑审玉2010015&#xA;作物名称 玉米&#xA;品种名称 巴玉10&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>巴玉1号</title>
+      <link>https://maizeinfo.netlify.app/variety/139/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/139/</guid>
+      <description>审定编号 鄂审玉2010008&#xA;作物名称 玉米&#xA;品种名称 巴玉1号&#xA;审定年份 2010&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>帮豪58</title>
+      <link>https://maizeinfo.netlify.app/variety/153/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/153/</guid>
+      <description>审定编号 渝审玉2010002&#xA;作物名称 玉米&#xA;品种名称 帮豪58&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>帮豪838</title>
+      <link>https://maizeinfo.netlify.app/variety/154/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/154/</guid>
+      <description>审定编号 鄂审玉2010010&#xA;作物名称 玉米&#xA;品种名称 帮豪838&#xA;审定年份 2010&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>帮豪玉509</title>
+      <link>https://maizeinfo.netlify.app/variety/155/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/155/</guid>
+      <description>审定编号 鄂审玉2011003&#xA;作物名称 玉米&#xA;品种名称 帮豪玉509&#xA;审定年份 2011&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>常丰179</title>
+      <link>https://maizeinfo.netlify.app/variety/215/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/215/</guid>
+      <description>审定编号 晋审玉20210086&#xA;作物名称 玉米&#xA;品种名称 常丰179&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>并单1605</title>
+      <link>https://maizeinfo.netlify.app/variety/187/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/187/</guid>
+      <description>审定编号 晋审玉20210035&#xA;作物名称 玉米&#xA;品种名称 并单1605&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>并单16号</title>
+      <link>https://maizeinfo.netlify.app/variety/188/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/188/</guid>
+      <description>审定编号 晋审玉2010003&#xA;作物名称 玉米&#xA;品种名称 并单16号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>并单1702</title>
+      <link>https://maizeinfo.netlify.app/variety/189/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/189/</guid>
+      <description>审定编号 晋审玉20210043&#xA;作物名称 玉米&#xA;品种名称 并单1702&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>并单17号</title>
+      <link>https://maizeinfo.netlify.app/variety/190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/190/</guid>
+      <description>审定编号 晋审玉2010004&#xA;作物名称 玉米&#xA;品种名称 并单17号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>彩甜糯11号</title>
+      <link>https://maizeinfo.netlify.app/variety/198/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/198/</guid>
+      <description>审定编号 渝审玉20210034&#xA;作物名称 玉米&#xA;品种名称 彩甜糯11号&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>彩甜糯818</title>
+      <link>https://maizeinfo.netlify.app/variety/199/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/199/</guid>
+      <description>审定编号 苏审玉20210032&#xA;作物名称 玉米&#xA;品种名称 彩甜糯818&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>彩甜糯9号</title>
+      <link>https://maizeinfo.netlify.app/variety/200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/200/</guid>
+      <description>审定编号 渝审玉20210036&#xA;作物名称 玉米&#xA;品种名称 彩甜糯9号&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>德丰818</title>
+      <link>https://maizeinfo.netlify.app/variety/296/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/296/</guid>
+      <description>审定编号 甘审玉20210019&#xA;作物名称 玉米&#xA;品种名称 德丰818&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>德丰C919</title>
+      <link>https://maizeinfo.netlify.app/variety/297/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/297/</guid>
+      <description>审定编号 国审玉20210070&#xA;作物名称 玉米&#xA;品种名称 德丰C919&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>德光168</title>
+      <link>https://maizeinfo.netlify.app/variety/298/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/298/</guid>
+      <description>审定编号 甘审玉20210050&#xA;作物名称 玉米&#xA;品种名称 德光168&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>德光188</title>
+      <link>https://maizeinfo.netlify.app/variety/299/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/299/</guid>
+      <description>审定编号 甘审玉20210051&#xA;作物名称 玉米&#xA;品种名称 德光188&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>德利农10号</title>
+      <link>https://maizeinfo.netlify.app/variety/301/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/301/</guid>
+      <description>审定编号 鲁农审2011003号&#xA;作物名称 玉米&#xA;品种名称 德利农10号&#xA;审定年份 2011&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>德单5号</title>
+      <link>https://maizeinfo.netlify.app/variety/294/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/294/</guid>
+      <description>审定编号 豫审玉 2010021&#xA;作物名称 玉米&#xA;品种名称 德单5号&#xA;审定年份 2010&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>德单9号</title>
+      <link>https://maizeinfo.netlify.app/variety/295/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/295/</guid>
+      <description>审定编号 陕审玉2010008&#xA;作物名称 玉米&#xA;品种名称 德单9号&#xA;审定年份 2010&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>德汇2116</title>
+      <link>https://maizeinfo.netlify.app/variety/300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/300/</guid>
+      <description>审定编号 甘审玉20210006&#xA;作物名称 玉米&#xA;品种名称 德汇2116&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>德源216</title>
+      <link>https://maizeinfo.netlify.app/variety/306/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/306/</guid>
+      <description>审定编号 甘审玉20210043&#xA;作物名称 玉米&#xA;品种名称 德源216&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>德玉3号</title>
+      <link>https://maizeinfo.netlify.app/variety/304/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/304/</guid>
+      <description>审定编号 黑审玉2011008&#xA;作物名称 玉米&#xA;品种名称 德玉3号&#xA;审定年份 2011&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>德瑞3号</title>
+      <link>https://maizeinfo.netlify.app/variety/302/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/302/</guid>
+      <description>审定编号 晋审玉20210098&#xA;作物名称 玉米&#xA;品种名称 德瑞3号&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>德禹341</title>
+      <link>https://maizeinfo.netlify.app/variety/303/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/303/</guid>
+      <description>审定编号 吉审玉20210009&#xA;作物名称 玉米&#xA;品种名称 德禹341&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>德育丰919</title>
+      <link>https://maizeinfo.netlify.app/variety/305/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/305/</guid>
+      <description>审定编号 晋审玉20210047&#xA;作物名称 玉米&#xA;品种名称 德育丰919&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>必奥1312</title>
+      <link>https://maizeinfo.netlify.app/variety/176/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/176/</guid>
+      <description>审定编号 晋审玉20210083&#xA;作物名称 玉米&#xA;品种名称 必奥1312&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>必奥602</title>
+      <link>https://maizeinfo.netlify.app/variety/177/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/177/</guid>
+      <description>审定编号 晋审玉20210092&#xA;作物名称 玉米&#xA;品种名称 必奥602&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>必胜6号</title>
+      <link>https://maizeinfo.netlify.app/variety/178/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/178/</guid>
+      <description>审定编号 川审玉2011007&#xA;作物名称 玉米&#xA;品种名称 必胜6号&#xA;审定年份 2011&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>恩单803</title>
+      <link>https://maizeinfo.netlify.app/variety/355/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/355/</guid>
+      <description>审定编号 鄂审玉2011002&#xA;作物名称 玉米&#xA;品种名称 恩单803&#xA;审定年份 2011&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>恩单804</title>
+      <link>https://maizeinfo.netlify.app/variety/356/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/356/</guid>
+      <description>审定编号 鄂审玉2011007&#xA;作物名称 玉米&#xA;品种名称 恩单804&#xA;审定年份 2011&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>恩青贮171</title>
+      <link>https://maizeinfo.netlify.app/variety/357/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/357/</guid>
+      <description>审定编号 鄂审玉20210017&#xA;作物名称 玉米&#xA;品种名称 恩青贮171&#xA;审定年份 2021&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>成单3601</title>
+      <link>https://maizeinfo.netlify.app/variety/220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/220/</guid>
+      <description>审定编号 国审玉20210093&#xA;作物名称 玉米&#xA;品种名称 成单3601&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>成单399</title>
+      <link>https://maizeinfo.netlify.app/variety/221/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/221/</guid>
+      <description>审定编号 川审玉20210005&#xA;作物名称 玉米&#xA;品种名称 成单399&#xA;审定年份 2021&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>成单607      </title>
+      <link>https://maizeinfo.netlify.app/variety/222/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/222/</guid>
+      <description>审定编号 川审玉20210013&#xA;作物名称 玉米&#xA;品种名称 成单607&#xA;审定年份 2021&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>成单718</title>
+      <link>https://maizeinfo.netlify.app/variety/223/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/223/</guid>
+      <description>审定编号 国审玉20210094&#xA;作物名称 玉米&#xA;品种名称 成单718&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>成单719</title>
+      <link>https://maizeinfo.netlify.app/variety/224/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/224/</guid>
+      <description>审定编号 国审玉20210095&#xA;作物名称 玉米&#xA;品种名称 成单719&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>成单728</title>
+      <link>https://maizeinfo.netlify.app/variety/225/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/225/</guid>
+      <description>审定编号 川审玉20210006&#xA;作物名称 玉米&#xA;品种名称 成单728&#xA;审定年份 2021&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>成玉7211</title>
+      <link>https://maizeinfo.netlify.app/variety/226/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/226/</guid>
+      <description>审定编号 豫审玉20210028&#xA;作物名称 玉米&#xA;品种名称 成玉7211&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>承单813</title>
+      <link>https://maizeinfo.netlify.app/variety/227/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/227/</guid>
+      <description>审定编号 冀审玉20170100&#xA;作物名称 玉米&#xA;品种名称 承单813&#xA;审定年份 2017&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>承玉18</title>
+      <link>https://maizeinfo.netlify.app/variety/230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/230/</guid>
+      <description>审定编号 豫引玉2010002&#xA;作物名称 玉米&#xA;品种名称 承玉18&#xA;审定年份 2010&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>承玉22</title>
+      <link>https://maizeinfo.netlify.app/variety/231/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/231/</guid>
+      <description>审定编号 蒙认玉2011009号&#xA;作物名称 玉米&#xA;品种名称 承玉22&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>承玉29</title>
+      <link>https://maizeinfo.netlify.app/variety/232/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/232/</guid>
+      <description>审定编号 冀审玉2011001号&#xA;作物名称 玉米&#xA;品种名称 承玉29&#xA;审定年份 2011&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>承玉48</title>
+      <link>https://maizeinfo.netlify.app/variety/233/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/233/</guid>
+      <description>审定编号 冀审玉20210029&#xA;作物名称 玉米&#xA;品种名称 承玉48&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>承玉5</title>
+      <link>https://maizeinfo.netlify.app/variety/234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/234/</guid>
+      <description>审定编号 国审玉2001007&#xA;作物名称 玉米&#xA;品种名称 承玉5&#xA;审定年份 2001&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>承玉88</title>
+      <link>https://maizeinfo.netlify.app/variety/235/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/235/</guid>
+      <description>审定编号 国审玉20210038&#xA;作物名称 玉米&#xA;品种名称 承玉88&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>承禾586</title>
+      <link>https://maizeinfo.netlify.app/variety/228/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/228/</guid>
+      <description>审定编号 冀审玉20210031&#xA;作物名称 玉米&#xA;品种名称 承禾586&#xA;审定年份 2021&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>承糯23</title>
+      <link>https://maizeinfo.netlify.app/variety/229/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/229/</guid>
+      <description>审定编号 冀审玉2010011号&#xA;作物名称 玉米&#xA;品种名称 承糯23&#xA;审定年份 2010&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>敦玉10号</title>
+      <link>https://maizeinfo.netlify.app/variety/350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/350/</guid>
+      <description>审定编号 甘审玉2010002&#xA;作物名称 玉米&#xA;品种名称 敦玉10号&#xA;审定年份 2010&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>敦玉260</title>
+      <link>https://maizeinfo.netlify.app/variety/351/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/351/</guid>
+      <description>审定编号 甘审玉20210060&#xA;作物名称 玉米&#xA;品种名称 敦玉260&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>春喜528     </title>
+      <link>https://maizeinfo.netlify.app/variety/250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/250/</guid>
+      <description>审定编号 川审玉20210015&#xA;作物名称 玉米&#xA;品种名称 春喜528&#xA;审定年份 2021&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>春喜99</title>
+      <link>https://maizeinfo.netlify.app/variety/251/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/251/</guid>
+      <description>审定编号 滇特(昭通)审玉米2010013号&#xA;作物名称 玉米&#xA;品种名称 春喜99&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>春玉96</title>
+      <link>https://maizeinfo.netlify.app/variety/252/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/252/</guid>
+      <description>审定编号 甘审玉20210091&#xA;作物名称 玉米&#xA;品种名称 春玉96&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>春秋339</title>
+      <link>https://maizeinfo.netlify.app/variety/248/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/248/</guid>
+      <description>审定编号 豫审玉20210025&#xA;作物名称 玉米&#xA;品种名称 春秋339&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>春秋795</title>
+      <link>https://maizeinfo.netlify.app/variety/249/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/249/</guid>
+      <description>审定编号 豫审玉20210026&#xA;作物名称 玉米&#xA;品种名称 春秋795&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>本玉2112</title>
+      <link>https://maizeinfo.netlify.app/variety/174/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/174/</guid>
+      <description>审定编号 皖审玉20201002&#xA;作物名称 玉米&#xA;品种名称 本玉2112&#xA;审定年份 2020&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>本玉9485</title>
+      <link>https://maizeinfo.netlify.app/variety/175/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/175/</guid>
+      <description>审定编号 皖审玉20201004&#xA;作物名称 玉米&#xA;品种名称 本玉9485&#xA;审定年份 2020&#xA;审定单位 安徽省</description>
+    </item>
+    <item>
+      <title>杜玉2号</title>
+      <link>https://maizeinfo.netlify.app/variety/349/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/349/</guid>
+      <description>审定编号 黑审玉2010035&#xA;作物名称 玉米&#xA;品种名称 杜玉2号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>楚单11号</title>
+      <link>https://maizeinfo.netlify.app/variety/242/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/242/</guid>
+      <description>审定编号 滇特（大理）审玉米2011002号&#xA;作物名称 玉米&#xA;品种名称 楚单11号&#xA;审定年份 2011&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>楚玉一号</title>
+      <link>https://maizeinfo.netlify.app/variety/243/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/243/</guid>
+      <description>审定编号 滇特(楚雄)审玉米2010021号&#xA;作物名称 玉米&#xA;品种名称 楚玉一号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>榜玉169</title>
+      <link>https://maizeinfo.netlify.app/variety/156/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/156/</guid>
+      <description>审定编号 国审玉20206100&#xA;作物名称 玉米&#xA;品种名称 榜玉169&#xA;审定年份 2020&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>毕单13号</title>
+      <link>https://maizeinfo.netlify.app/variety/179/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/179/</guid>
+      <description>审定编号 滇特(普洱)审玉米2010074号&#xA;作物名称 玉米&#xA;品种名称 毕单13号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>毕单18号</title>
+      <link>https://maizeinfo.netlify.app/variety/180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/180/</guid>
+      <description>审定编号 滇特(文山)审玉米2010006号&#xA;作物名称 玉米&#xA;品种名称 毕单18号&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>毕糯1号</title>
+      <link>https://maizeinfo.netlify.app/variety/181/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/181/</guid>
+      <description>审定编号 黔审玉2010016号&#xA;作物名称 玉米&#xA;品种名称 毕糯1号&#xA;审定年份 2010&#xA;审定单位 贵州省</description>
+    </item>
+    <item>
+      <title>泛玉398</title>
+      <link>https://maizeinfo.netlify.app/variety/358/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/358/</guid>
+      <description>审定编号 豫审玉20210030&#xA;作物名称 玉米&#xA;品种名称 泛玉398&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>泛玉606</title>
+      <link>https://maizeinfo.netlify.app/variety/359/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/359/</guid>
+      <description>审定编号 豫审玉20210035&#xA;作物名称 玉米&#xA;品种名称 泛玉606&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>波玉3</title>
+      <link>https://maizeinfo.netlify.app/variety/191/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/191/</guid>
+      <description>审定编号 吉审玉2010003&#xA;作物名称 玉米&#xA;品种名称 波玉3&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>滨裕878</title>
+      <link>https://maizeinfo.netlify.app/variety/186/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/186/</guid>
+      <description>审定编号 鲁审玉20210010&#xA;作物名称 玉米&#xA;品种名称 滨裕878&#xA;审定年份 2021&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>澳甜糯75</title>
+      <link>https://maizeinfo.netlify.app/variety/134/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/134/</guid>
+      <description>审定编号 津审玉20210006&#xA;作物名称 玉米&#xA;品种名称 澳甜糯75&#xA;审定年份 2021&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>爱瑞特1722</title>
+      <link>https://maizeinfo.netlify.app/variety/116/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/116/</guid>
+      <description>审定编号 豫审玉20210063&#xA;作物名称 玉米&#xA;品种名称 爱瑞特1722&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>爱瑞特997</title>
+      <link>https://maizeinfo.netlify.app/variety/117/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/117/</guid>
+      <description>审定编号 豫审玉20210062&#xA;作物名称 玉米&#xA;品种名称 爱瑞特997&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>犇玉1号</title>
+      <link>https://maizeinfo.netlify.app/variety/173/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/173/</guid>
+      <description>审定编号 渝审玉20210004&#xA;作物名称 玉米&#xA;品种名称 犇玉1号&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>登海11号(DH9313)</title>
+      <link>https://maizeinfo.netlify.app/variety/307/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/307/</guid>
+      <description>审定编号 国审玉2001005&#xA;作物名称 玉米&#xA;品种名称 登海11号(DH9313)&#xA;审定年份 2001&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>登海11号(原名：DH9313)</title>
+      <link>https://maizeinfo.netlify.app/variety/308/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/308/</guid>
+      <description>审定编号 桂审玉2001006号&#xA;作物名称 玉米&#xA;品种名称 登海11号(原名：DH9313)&#xA;审定年份 2001&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>登海1912</title>
+      <link>https://maizeinfo.netlify.app/variety/309/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/309/</guid>
+      <description>审定编号 辽审玉20210026&#xA;作物名称 玉米&#xA;品种名称 登海1912&#xA;审定年份 2021&#xA;审定单位 辽宁省</description>
+    </item>
+    <item>
+      <title>登海1968</title>
+      <link>https://maizeinfo.netlify.app/variety/310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/310/</guid>
+      <description>审定编号 国审玉20216100&#xA;作物名称 玉米&#xA;品种名称 登海1968&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>登海3521</title>
+      <link>https://maizeinfo.netlify.app/variety/311/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/311/</guid>
+      <description>审定编号 甘审玉2011007&#xA;作物名称 玉米&#xA;品种名称 登海3521&#xA;审定年份 2011&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>登海3721</title>
+      <link>https://maizeinfo.netlify.app/variety/312/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/312/</guid>
+      <description>审定编号 甘审玉2011006&#xA;作物名称 玉米&#xA;品种名称 登海3721&#xA;审定年份 2011&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>登海3760</title>
+      <link>https://maizeinfo.netlify.app/variety/313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/313/</guid>
+      <description>审定编号 冀审玉2011004号&#xA;作物名称 玉米&#xA;品种名称 登海3760&#xA;审定年份 2011&#xA;审定单位 河北省</description>
+    </item>
+    <item>
+      <title>登海3号（原名：DH3303）</title>
+      <link>https://maizeinfo.netlify.app/variety/314/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/314/</guid>
+      <description>审定编号 桂审玉2001005号&#xA;作物名称 玉米&#xA;品种名称 登海3号（原名：DH3303）&#xA;审定年份 2001&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>登海605</title>
+      <link>https://maizeinfo.netlify.app/variety/315/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/315/</guid>
+      <description>审定编号 蒙认玉2011001号&#xA;作物名称 玉米&#xA;品种名称 登海605&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>登海605</title>
+      <link>https://maizeinfo.netlify.app/variety/316/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/316/</guid>
+      <description>审定编号 鲁农审2011004号&#xA;作物名称 玉米&#xA;品种名称 登海605&#xA;审定年份 2011&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>登海605</title>
+      <link>https://maizeinfo.netlify.app/variety/317/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/317/</guid>
+      <description>审定编号 国审玉2010009&#xA;作物名称 玉米&#xA;品种名称 登海605&#xA;审定年份 2010&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>登海6106</title>
+      <link>https://maizeinfo.netlify.app/variety/318/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/318/</guid>
+      <description>审定编号 陕审玉2010011&#xA;作物名称 玉米&#xA;品种名称 登海6106&#xA;审定年份 2010&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>登海6702</title>
+      <link>https://maizeinfo.netlify.app/variety/319/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/319/</guid>
+      <description>审定编号 国审玉2011009&#xA;作物名称 玉米&#xA;品种名称 登海6702&#xA;审定年份 2011&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>登海679</title>
+      <link>https://maizeinfo.netlify.app/variety/320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/320/</guid>
+      <description>审定编号 晋审玉2011009&#xA;作物名称 玉米&#xA;品种名称 登海679&#xA;审定年份 2011&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>登海9193</title>
+      <link>https://maizeinfo.netlify.app/variety/321/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/321/</guid>
+      <description>审定编号 京审玉2010002&#xA;作物名称 玉米&#xA;品种名称 登海9193&#xA;审定年份 2010&#xA;审定单位 北京市</description>
+    </item>
+    <item>
+      <title>登海DT996</title>
+      <link>https://maizeinfo.netlify.app/variety/322/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/322/</guid>
+      <description>审定编号 鲁审玉20210026&#xA;作物名称 玉米&#xA;品种名称 登海DT996&#xA;审定年份 2021&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>登海LN229</title>
+      <link>https://maizeinfo.netlify.app/variety/323/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/323/</guid>
+      <description>审定编号 晋审玉20210070&#xA;作物名称 玉米&#xA;品种名称 登海LN229&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>登海W365</title>
+      <link>https://maizeinfo.netlify.app/variety/324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/324/</guid>
+      <description>审定编号 鲁审玉20210014&#xA;作物名称 玉米&#xA;品种名称 登海W365&#xA;审定年份 2021&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>白961</title>
+      <link>https://maizeinfo.netlify.app/variety/140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/140/</guid>
+      <description>审定编号 滇特(文山)审玉米2010003号&#xA;作物名称 玉米&#xA;品种名称 白961&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>白早2号</title>
+      <link>https://maizeinfo.netlify.app/variety/146/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/146/</guid>
+      <description>审定编号 吉审玉2001004&#xA;作物名称 玉米&#xA;品种名称 白早2号&#xA;审定年份 2001&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>白早3号</title>
+      <link>https://maizeinfo.netlify.app/variety/147/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/147/</guid>
+      <description>审定编号 吉审玉2001005&#xA;作物名称 玉米&#xA;品种名称 白早3号&#xA;审定年份 2001&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>白玉糯168</title>
+      <link>https://maizeinfo.netlify.app/variety/145/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/145/</guid>
+      <description>审定编号 渝审玉20210027&#xA;作物名称 玉米&#xA;品种名称 白玉糯168&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>白甜833</title>
+      <link>https://maizeinfo.netlify.app/variety/143/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/143/</guid>
+      <description>审定编号 闽审玉20210007&#xA;作物名称 玉米&#xA;品种名称 白甜833&#xA;审定年份 2021&#xA;审定单位 福建省</description>
+    </item>
+    <item>
+      <title>白甜糯209</title>
+      <link>https://maizeinfo.netlify.app/variety/144/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/144/</guid>
+      <description>审定编号 苏审玉20210028&#xA;作物名称 玉米&#xA;品种名称 白甜糯209&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>白美人</title>
+      <link>https://maizeinfo.netlify.app/variety/142/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/142/</guid>
+      <description>审定编号 沪审玉2021005&#xA;作物名称 玉米&#xA;品种名称 白美人&#xA;审定年份 2021&#xA;审定单位 上海市</description>
+    </item>
+    <item>
+      <title>白金糯玉</title>
+      <link>https://maizeinfo.netlify.app/variety/141/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/141/</guid>
+      <description>审定编号 鄂审玉2010005&#xA;作物名称 玉米&#xA;品种名称 白金糯玉&#xA;审定年份 2010&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>百玉393</title>
+      <link>https://maizeinfo.netlify.app/variety/148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/148/</guid>
+      <description>审定编号 国审玉20210007&#xA;作物名称 玉米&#xA;品种名称 百玉393&#xA;审定年份 2021&#xA;审定单位 国家</description>
+    </item>
+    <item>
+      <title>百玉9284</title>
+      <link>https://maizeinfo.netlify.app/variety/149/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/149/</guid>
+      <description>审定编号 豫审玉20210049&#xA;作物名称 玉米&#xA;品种名称 百玉9284&#xA;审定年份 2021&#xA;审定单位 河南省</description>
+    </item>
+    <item>
+      <title>脆王</title>
+      <link>https://maizeinfo.netlify.app/variety/254/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/254/</guid>
+      <description>审定编号 蒙认玉2010001号&#xA;作物名称 玉米&#xA;品种名称 脆王&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>脆白甜926</title>
+      <link>https://maizeinfo.netlify.app/variety/253/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/253/</guid>
+      <description>审定编号 沪审玉2021008&#xA;作物名称 玉米&#xA;品种名称 脆白甜926&#xA;审定年份 2021&#xA;审定单位 上海市</description>
+    </item>
+    <item>
+      <title>艾克信16</title>
+      <link>https://maizeinfo.netlify.app/variety/114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/114/</guid>
+      <description>审定编号 吉审玉20220100&#xA;作物名称 玉米&#xA;品种名称 艾克信16&#xA;审定年份 2022&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>艾禾玉058</title>
+      <link>https://maizeinfo.netlify.app/variety/113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/113/</guid>
+      <description>审定编号 渝审玉20210011&#xA;作物名称 玉米&#xA;品种名称 艾禾玉058&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>艾米歌甜5号</title>
+      <link>https://maizeinfo.netlify.app/variety/115/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/115/</guid>
+      <description>审定编号 浙审玉2021004&#xA;作物名称 玉米&#xA;品种名称 艾米歌甜5号&#xA;审定年份 2021&#xA;审定单位 浙江省</description>
+    </item>
+    <item>
+      <title>萃甜糯516</title>
+      <link>https://maizeinfo.netlify.app/variety/256/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/256/</guid>
+      <description>审定编号 苏审玉20210027&#xA;作物名称 玉米&#xA;品种名称 萃甜糯516&#xA;审定年份 2021&#xA;审定单位 江苏省</description>
+    </item>
+    <item>
+      <title>萃糯1号</title>
+      <link>https://maizeinfo.netlify.app/variety/255/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/255/</guid>
+      <description>审定编号 湘审玉2010005&#xA;作物名称 玉米&#xA;品种名称 萃糯1号&#xA;审定年份 2010&#xA;审定单位 湖南省</description>
+    </item>
+    <item>
+      <title>蝶爆2916</title>
+      <link>https://maizeinfo.netlify.app/variety/331/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/331/</guid>
+      <description>审定编号 吉审玉20210049&#xA;作物名称 玉米&#xA;品种名称 蝶爆2916&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>诚信16号</title>
+      <link>https://maizeinfo.netlify.app/variety/236/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/236/</guid>
+      <description>审定编号 津准引玉2011003&#xA;作物名称 玉米&#xA;品种名称 诚信16号&#xA;审定年份 2011&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>诚信16号</title>
+      <link>https://maizeinfo.netlify.app/variety/237/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/237/</guid>
+      <description>审定编号 晋审玉2010023&#xA;作物名称 玉米&#xA;品种名称 诚信16号&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>赤单208</title>
+      <link>https://maizeinfo.netlify.app/variety/239/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/239/</guid>
+      <description>审定编号 蒙审玉2010027号&#xA;作物名称 玉米&#xA;品种名称 赤单208&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>赤早5</title>
+      <link>https://maizeinfo.netlify.app/variety/241/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/241/</guid>
+      <description>审定编号 吉审玉2010001&#xA;作物名称 玉米&#xA;品种名称 赤早5&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>赤糯二号</title>
+      <link>https://maizeinfo.netlify.app/variety/240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/240/</guid>
+      <description>审定编号 蒙审玉2010001号&#xA;作物名称 玉米&#xA;品种名称 赤糯二号&#xA;审定年份 2010&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>超单10号</title>
+      <link>https://maizeinfo.netlify.app/variety/216/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/216/</guid>
+      <description>审定编号 川审玉2010010&#xA;作物名称 玉米&#xA;品种名称 超单10号&#xA;审定年份 2010&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>超甜黄</title>
+      <link>https://maizeinfo.netlify.app/variety/218/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/218/</guid>
+      <description>审定编号 桂审玉2001009号&#xA;作物名称 玉米&#xA;品种名称 超甜黄&#xA;审定年份 2001&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>超科60</title>
+      <link>https://maizeinfo.netlify.app/variety/217/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/217/</guid>
+      <description>审定编号 吉审玉20210076&#xA;作物名称 玉米&#xA;品种名称 超科60&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>辰诺101</title>
+      <link>https://maizeinfo.netlify.app/variety/219/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/219/</guid>
+      <description>审定编号 蒙审玉2021006号&#xA;作物名称 玉米&#xA;品种名称 辰诺101&#xA;审定年份 2021&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>边单10号</title>
+      <link>https://maizeinfo.netlify.app/variety/182/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/182/</guid>
+      <description>审定编号 黑审玉20210014&#xA;作物名称 玉米&#xA;品种名称 边单10号&#xA;审定年份 2021&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>边单9号</title>
+      <link>https://maizeinfo.netlify.app/variety/183/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/183/</guid>
+      <description>审定编号 黑审玉20210009&#xA;作物名称 玉米&#xA;品种名称 边单9号&#xA;审定年份 2021&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>迪丰198</title>
+      <link>https://maizeinfo.netlify.app/variety/326/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/326/</guid>
+      <description>审定编号 川审玉2010005&#xA;作物名称 玉米&#xA;品种名称 迪丰198&#xA;审定年份 2010&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>迪丰618</title>
+      <link>https://maizeinfo.netlify.app/variety/327/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/327/</guid>
+      <description>审定编号 陕审玉2010017&#xA;作物名称 玉米&#xA;品种名称 迪丰618&#xA;审定年份 2010&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>迪卡007</title>
+      <link>https://maizeinfo.netlify.app/variety/329/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/329/</guid>
+      <description>审定编号 滇特(版纳)审玉米2010028号&#xA;作物名称 玉米&#xA;品种名称 迪卡007&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>迪彩甜糯676</title>
+      <link>https://maizeinfo.netlify.app/variety/325/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/325/</guid>
+      <description>审定编号 桂审玉2019100号&#xA;作物名称 玉米&#xA;品种名称 迪彩甜糯676&#xA;审定年份 2019&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>迪甜糯358</title>
+      <link>https://maizeinfo.netlify.app/variety/330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/330/</guid>
+      <description>审定编号 桂审玉2022100号&#xA;作物名称 玉米&#xA;品种名称 迪甜糯358&#xA;审定年份 2022&#xA;审定单位 广西壮族自治区</description>
+    </item>
+    <item>
+      <title>迪锋128</title>
+      <link>https://maizeinfo.netlify.app/variety/328/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/328/</guid>
+      <description>审定编号 吉审玉2010039&#xA;作物名称 玉米&#xA;品种名称 迪锋128&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>邦玉358</title>
+      <link>https://maizeinfo.netlify.app/variety/150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/150/</guid>
+      <description>审定编号 鲁农审2011009号&#xA;作物名称 玉米&#xA;品种名称 邦玉358&#xA;审定年份 2011&#xA;审定单位 山东省</description>
+    </item>
+    <item>
+      <title>邦玉666    </title>
+      <link>https://maizeinfo.netlify.app/variety/151/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/151/</guid>
+      <description>审定编号 川审玉20210007&#xA;作物名称 玉米&#xA;品种名称 邦玉666&#xA;审定年份 2021&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>邦玉833</title>
+      <link>https://maizeinfo.netlify.app/variety/152/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/152/</guid>
+      <description>审定编号 吉审玉20210082&#xA;作物名称 玉米&#xA;品种名称 邦玉833&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>鄂玉30</title>
+      <link>https://maizeinfo.netlify.app/variety/353/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/353/</guid>
+      <description>审定编号 渝引玉2010008&#xA;作物名称 玉米&#xA;品种名称 鄂玉30&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>鄂玉31</title>
+      <link>https://maizeinfo.netlify.app/variety/354/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/354/</guid>
+      <description>审定编号 渝引玉2010003&#xA;作物名称 玉米&#xA;品种名称 鄂玉31&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>鄂甜玉9号</title>
+      <link>https://maizeinfo.netlify.app/variety/352/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/352/</guid>
+      <description>审定编号 鄂审玉20210024&#xA;作物名称 玉米&#xA;品种名称 鄂甜玉9号&#xA;审定年份 2021&#xA;审定单位 湖北省</description>
+    </item>
+    <item>
+      <title>长单228</title>
+      <link>https://maizeinfo.netlify.app/variety/203/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/203/</guid>
+      <description>审定编号 蒙认玉2011006号&#xA;作物名称 玉米&#xA;品种名称 长单228&#xA;审定年份 2011&#xA;审定单位 内蒙古自治区</description>
+    </item>
+    <item>
+      <title>长单301</title>
+      <link>https://maizeinfo.netlify.app/variety/204/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/204/</guid>
+      <description>审定编号 吉审玉20210027&#xA;作物名称 玉米&#xA;品种名称 长单301&#xA;审定年份 2021&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>长单43</title>
+      <link>https://maizeinfo.netlify.app/variety/205/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/205/</guid>
+      <description>审定编号 渝引玉2010002&#xA;作物名称 玉米&#xA;品种名称 长单43&#xA;审定年份 2010&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>长单506</title>
+      <link>https://maizeinfo.netlify.app/variety/206/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/206/</guid>
+      <description>审定编号 晋审玉2010025&#xA;作物名称 玉米&#xA;品种名称 长单506&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>长单525</title>
+      <link>https://maizeinfo.netlify.app/variety/207/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/207/</guid>
+      <description>审定编号 晋审玉2010002&#xA;作物名称 玉米&#xA;品种名称 长单525&#xA;审定年份 2010&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>长单988</title>
+      <link>https://maizeinfo.netlify.app/variety/208/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/208/</guid>
+      <description>审定编号 晋审玉20210063&#xA;作物名称 玉米&#xA;品种名称 长单988&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>长城799(承799)</title>
+      <link>https://maizeinfo.netlify.app/variety/201/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/201/</guid>
+      <description>审定编号 津审玉2001008&#xA;作物名称 玉米&#xA;品种名称 长城799(承799)&#xA;审定年份 2001&#xA;审定单位 天津市</description>
+    </item>
+    <item>
+      <title>长大19</title>
+      <link>https://maizeinfo.netlify.app/variety/202/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/202/</guid>
+      <description>审定编号 吉审玉2010041&#xA;作物名称 玉米&#xA;品种名称 长大19&#xA;审定年份 2010&#xA;审定单位 吉林省</description>
+    </item>
+    <item>
+      <title>长玉108</title>
+      <link>https://maizeinfo.netlify.app/variety/210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/210/</guid>
+      <description>审定编号 黑审玉2011005&#xA;作物名称 玉米&#xA;品种名称 长玉108&#xA;审定年份 2011&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>长玉16号</title>
+      <link>https://maizeinfo.netlify.app/variety/211/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/211/</guid>
+      <description>审定编号 渝引玉2011005&#xA;作物名称 玉米&#xA;品种名称 长玉16号&#xA;审定年份 2011&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>长玉2008</title>
+      <link>https://maizeinfo.netlify.app/variety/212/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/212/</guid>
+      <description>审定编号 滇特(曲靖)审玉米2010041号&#xA;作物名称 玉米&#xA;品种名称 长玉2008&#xA;审定年份 2010&#xA;审定单位 云南省</description>
+    </item>
+    <item>
+      <title>长玉509</title>
+      <link>https://maizeinfo.netlify.app/variety/213/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/213/</guid>
+      <description>审定编号 黑审玉2010005&#xA;作物名称 玉米&#xA;品种名称 长玉509&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>长玉906</title>
+      <link>https://maizeinfo.netlify.app/variety/214/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/214/</guid>
+      <description>审定编号 晋审玉20210025&#xA;作物名称 玉米&#xA;品种名称 长玉906&#xA;审定年份 2021&#xA;审定单位 山西省</description>
+    </item>
+    <item>
+      <title>长陵14号</title>
+      <link>https://maizeinfo.netlify.app/variety/209/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/209/</guid>
+      <description>审定编号 渝审玉20210002&#xA;作物名称 玉米&#xA;品种名称 长陵14号&#xA;审定年份 2021&#xA;审定单位 重庆市</description>
+    </item>
+    <item>
+      <title>阿单14</title>
+      <link>https://maizeinfo.netlify.app/variety/111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/111/</guid>
+      <description>审定编号 川审玉2010012&#xA;作物名称 玉米&#xA;品种名称 阿单14&#xA;审定年份 2010&#xA;审定单位 四川省</description>
+    </item>
+    <item>
+      <title>阿源1号</title>
+      <link>https://maizeinfo.netlify.app/variety/112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/112/</guid>
+      <description>审定编号 黑审玉2010040&#xA;作物名称 玉米&#xA;品种名称 阿源1号&#xA;审定年份 2010&#xA;审定单位 黑龙江省</description>
+    </item>
+    <item>
+      <title>飞宇1586</title>
+      <link>https://maizeinfo.netlify.app/variety/360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/360/</guid>
+      <description>审定编号 陕审玉20210003号&#xA;作物名称 玉米&#xA;品种名称 飞宇1586&#xA;审定年份 2021&#xA;审定单位 陕西省</description>
+    </item>
+    <item>
+      <title>飞宇1589</title>
+      <link>https://maizeinfo.netlify.app/variety/361/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/361/</guid>
+      <description>审定编号 甘审玉20210093&#xA;作物名称 玉米&#xA;品种名称 飞宇1589&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>飞宇22</title>
+      <link>https://maizeinfo.netlify.app/variety/362/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/362/</guid>
+      <description>审定编号 甘审玉20210092&#xA;作物名称 玉米&#xA;品种名称 飞宇22&#xA;审定年份 2021&#xA;审定单位 甘肃省</description>
+    </item>
+    <item>
+      <title>鼎玉818</title>
+      <link>https://maizeinfo.netlify.app/variety/332/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maizeinfo.netlify.app/variety/332/</guid>
+      <description>审定编号 川审玉2010009&#xA;作物名称 玉米&#xA;品种名称 鼎玉818&#xA;审定年份 2010&#xA;审定单位 四川省</description>
+    </item>
+  </channel>
+</rss>
